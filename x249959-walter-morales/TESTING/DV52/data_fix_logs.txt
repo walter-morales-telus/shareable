@@ -1,0 +1,2064 @@
+Promotion object_id: 9164921610457303457 INSERTED reference to Tax Included Credits
+Promotion: 9164921610457303457 Successfully Updated
+Promotion object_id: 9164930482568891015 INSERTED reference to Tax Included Credits
+Promotion: 9164930482568891015 Successfully Updated
+Promotion object_id: 9159600431513822943 INSERTED reference to Tax Included Credits
+Promotion: 9159600431513822943 Successfully Updated
+Promotion object_id: 9159606108113847170 INSERTED reference to Tax Included Credits
+Promotion: 9159606108113847170 Successfully Updated
+Promotion object_id: 9160132066213290440 INSERTED reference to Tax Included Credits
+Promotion: 9160132066213290440 Successfully Updated
+Promotion object_id: 9160132136213290745 INSERTED reference to Tax Included Credits
+Promotion: 9160132136213290745 Successfully Updated
+Promotion object_id: 9154269181713943982 INSERTED reference to Tax Included Credits
+Promotion: 9154269181713943982 Successfully Updated
+Promotion object_id: 9154269123413836602 INSERTED reference to Tax Included Credits
+Promotion: 9154269123413836602 Successfully Updated
+Promotion object_id: 9154269137413878742 INSERTED reference to Tax Included Credits
+Promotion: 9154269137413878742 Successfully Updated
+Promotion object_id: 9154269165513936377 INSERTED reference to Tax Included Credits
+Promotion: 9154269165513936377 Successfully Updated
+Promotion object_id: 9154269190613948191 INSERTED reference to Tax Included Credits
+Promotion: 9154269190613948191 Successfully Updated
+Promotion object_id: 9154425778113505341 INSERTED reference to Tax Included Credits
+Promotion: 9154425778113505341 Successfully Updated
+Promotion object_id: 9153470497413288012 INSERTED reference to Tax Included Credits
+Promotion: 9153470497413288012 Successfully Updated
+Promotion object_id: 9153478355313293548 INSERTED reference to Tax Included Credits
+Promotion: 9153478355313293548 Successfully Updated
+Promotion object_id: 9153470455413288007 INSERTED reference to Tax Included Credits
+Promotion: 9153470455413288007 Successfully Updated
+Promotion object_id: 9153478226013293433 INSERTED reference to Tax Included Credits
+Promotion: 9153478226013293433 Successfully Updated
+Promotion object_id: 9153478307913293443 INSERTED reference to Tax Included Credits
+Promotion: 9153478307913293443 Successfully Updated
+Promotion object_id: 9153470373013287997 INSERTED reference to Tax Included Credits
+Promotion: 9153470373013287997 Successfully Updated
+Promotion object_id: 9153478279113293438 INSERTED reference to Tax Included Credits
+Promotion: 9153478279113293438 Successfully Updated
+Promotion object_id: 9154269108313836597 INSERTED reference to Tax Included Credits
+Promotion: 9154269108313836597 Successfully Updated
+Promotion object_id: 9151731816513649427 INSERTED reference to Tax Included Credits
+Promotion: 9151731816513649427 Successfully Updated
+Promotion object_id: 9150692332013388421 INSERTED reference to Tax Included Credits
+Promotion: 9150692332013388421 Successfully Updated
+Promotion object_id: 9150692471913389345 INSERTED reference to Tax Included Credits
+Promotion: 9150692471913389345 Successfully Updated
+Promotion object_id: 9151471753413316850 INSERTED reference to Tax Included Credits
+Promotion: 9151471753413316850 Successfully Updated
+Promotion object_id: 9151472752313318033 INSERTED reference to Tax Included Credits
+Promotion: 9151472752313318033 Successfully Updated
+Promotion object_id: 9151480264613323491 INSERTED reference to Tax Included Credits
+Promotion: 9151480264613323491 Successfully Updated
+Promotion object_id: 9151480287113323566 INSERTED reference to Tax Included Credits
+Promotion: 9151480287113323566 Successfully Updated
+Promotion object_id: 9151524216413376943 INSERTED reference to Tax Included Credits
+Promotion: 9151524216413376943 Successfully Updated
+Promotion object_id: 9151548505513407143 INSERTED reference to Tax Included Credits
+Promotion: 9151548505513407143 Successfully Updated
+Promotion object_id: 9151738806913653687 INSERTED reference to Tax Included Credits
+Promotion: 9151738806913653687 Successfully Updated
+Promotion object_id: 9151739974313657557 INSERTED reference to Tax Included Credits
+Promotion: 9151739974313657557 Successfully Updated
+Promotion object_id: 9152094914213012143 INSERTED reference to Tax Included Credits
+Promotion: 9152094914213012143 Successfully Updated
+Promotion object_id: 9152101635513017834 INSERTED reference to Tax Included Credits
+Promotion: 9152101635513017834 Successfully Updated
+Promotion object_id: 9152697798213574208 INSERTED reference to Tax Included Credits
+Promotion: 9152697798213574208 Successfully Updated
+Promotion object_id: 9152698419413574843 INSERTED reference to Tax Included Credits
+Promotion: 9152698419413574843 Successfully Updated
+Promotion object_id: 9153585182213373609 INSERTED reference to Tax Included Credits
+Promotion: 9153585182213373609 Successfully Updated
+Promotion object_id: 9153619974913455378 INSERTED reference to Tax Included Credits
+Promotion: 9153619974913455378 Successfully Updated
+Promotion object_id: 9153647364313470569 INSERTED reference to Tax Included Credits
+Promotion: 9153647364313470569 Successfully Updated
+Promotion object_id: 9153653337313473541 INSERTED reference to Tax Included Credits
+Promotion: 9153653337313473541 Successfully Updated
+Promotion object_id: 9153974740713607375 INSERTED reference to Tax Included Credits
+Promotion: 9153974740713607375 Successfully Updated
+Promotion object_id: 9153983722513615406 INSERTED reference to Tax Included Credits
+Promotion: 9153983722513615406 Successfully Updated
+Promotion object_id: 9155531799513040847 INSERTED reference to Tax Included Credits
+Promotion: 9155531799513040847 Successfully Updated
+Promotion object_id: 9156401799213170771 INSERTED reference to Tax Included Credits
+Promotion: 9156401799213170771 Successfully Updated
+Promotion object_id: 9158675548313043746 INSERTED reference to Tax Included Credits
+Promotion: 9158675548313043746 Successfully Updated
+Promotion object_id: 9158765335413615509 INSERTED reference to Tax Included Credits
+Promotion: 9158765335413615509 Successfully Updated
+Promotion object_id: 9158765506713623911 INSERTED reference to Tax Included Credits
+Promotion: 9158765506713623911 Successfully Updated
+Promotion object_id: 9158922833013765953 INSERTED reference to Tax Included Credits
+Promotion: 9158922833013765953 Successfully Updated
+Promotion object_id: 9159076223013145262 INSERTED reference to Tax Included Credits
+Promotion: 9159076223013145262 Successfully Updated
+Promotion object_id: 9159342468813152912 INSERTED reference to Tax Included Credits
+Promotion: 9159342468813152912 Successfully Updated
+Promotion object_id: 9159598242113794766 INSERTED reference to Tax Included Credits
+Promotion: 9159598242113794766 Successfully Updated
+Promotion object_id: 9159600232613820792 INSERTED reference to Tax Included Credits
+Promotion: 9159600232613820792 Successfully Updated
+Promotion object_id: 9159600431213822823 INSERTED reference to Tax Included Credits
+Promotion: 9159600431213822823 Successfully Updated
+Promotion object_id: 9159606108013847096 INSERTED reference to Tax Included Credits
+Promotion: 9159606108013847096 Successfully Updated
+Promotion object_id: 9159997856013960074 INSERTED reference to Tax Included Credits
+Promotion: 9159997856013960074 Successfully Updated
+Promotion object_id: 9160003113513174753 INSERTED reference to Tax Included Credits
+Promotion: 9160003113513174753 Successfully Updated
+Promotion object_id: 9160005339513179703 INSERTED reference to Tax Included Credits
+Promotion: 9160005339513179703 Successfully Updated
+Promotion object_id: 9160005340313179781 INSERTED reference to Tax Included Credits
+Promotion: 9160005340313179781 Successfully Updated
+Promotion object_id: 9160005341013179905 INSERTED reference to Tax Included Credits
+Promotion: 9160005341013179905 Successfully Updated
+Promotion object_id: 9160007108313181668 INSERTED reference to Tax Included Credits
+Promotion: 9160007108313181668 Successfully Updated
+Promotion object_id: 9160008778713185468 INSERTED reference to Tax Included Credits
+Promotion: 9160008778713185468 Successfully Updated
+Promotion object_id: 9160132066213290528 INSERTED reference to Tax Included Credits
+Promotion: 9160132066213290528 Successfully Updated
+Promotion object_id: 9160132136213290735 INSERTED reference to Tax Included Credits
+Promotion: 9160132136213290735 Successfully Updated
+Promotion object_id: 9160758398113923978 INSERTED reference to Tax Included Credits
+Promotion: 9160758398113923978 Successfully Updated
+Promotion object_id: 9160758855913924406 INSERTED reference to Tax Included Credits
+Promotion: 9160758855913924406 Successfully Updated
+Promotion object_id: 9160760348513925483 INSERTED reference to Tax Included Credits
+Promotion: 9160760348513925483 Successfully Updated
+Promotion object_id: 9160760623013925851 INSERTED reference to Tax Included Credits
+Promotion: 9160760623013925851 Successfully Updated
+Promotion object_id: 9160793781213985518 INSERTED reference to Tax Included Credits
+Promotion: 9160793781213985518 Successfully Updated
+Promotion object_id: 9160793807913985767 INSERTED reference to Tax Included Credits
+Promotion: 9160793807913985767 Successfully Updated
+Promotion object_id: 9161327925313818809 INSERTED reference to Tax Included Credits
+Promotion: 9161327925313818809 Successfully Updated
+Promotion object_id: 9161344547513790880 INSERTED reference to Tax Included Credits
+Promotion: 9161344547513790880 Successfully Updated
+Promotion object_id: 9161941002913017238 INSERTED reference to Tax Included Credits
+Promotion: 9161941002913017238 Successfully Updated
+Promotion object_id: 9161941099013017764 INSERTED reference to Tax Included Credits
+Promotion: 9161941099013017764 Successfully Updated
+Promotion object_id: 9160752422913919210 INSERTED reference to Tax Included Credits
+Promotion: 9160752422913919210 Successfully Updated
+Promotion object_id: 9160752517013919215 INSERTED reference to Tax Included Credits
+Promotion: 9160752517013919215 Successfully Updated
+Promotion object_id: 9152222267113216938 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216938 Successfully Updated
+Promotion object_id: 9150082892113470197 INSERTED reference to Tax Included Credits
+Promotion: 9150082892113470197 Successfully Updated
+Promotion object_id: 9150082897313470202 INSERTED reference to Tax Included Credits
+Promotion: 9150082897313470202 Successfully Updated
+Promotion object_id: 9150491353813183521 INSERTED reference to Tax Included Credits
+Promotion: 9150491353813183521 Successfully Updated
+Promotion object_id: 9149675349313098013 INSERTED reference to Tax Included Credits
+Promotion: 9149675349313098013 Successfully Updated
+Promotion object_id: 9159034270813379370 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED
+Promotion object_id: 9159034273213379375 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED
+Promotion object_id: 9159034275913379380 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED
+Promotion object_id: 9164739851309855041 INSERTED reference to Tax Included Credits
+Promotion: 9164739851309855041 Successfully Updated
+Promotion object_id: 9162610807525427147 INSERTED reference to Tax Included Credits
+Promotion: 9162610807525427147 Successfully Updated
+Promotion object_id: 9163030499813769045 INSERTED reference to Tax Included Credits
+Promotion: 9163030499813769045 Successfully Updated
+Promotion object_id: 9164957603973320280 INSERTED reference to Tax Included Credits
+Promotion: 9164957603973320280 Successfully Updated
+Promotion object_id: 9164242065757077264 INSERTED reference to Tax Included Credits
+Promotion: 9164242065757077264 Successfully Updated
+Promotion object_id: 9164309042579777651 INSERTED reference to Tax Included Credits
+Promotion: 9164309042579777651 Successfully Updated
+Promotion object_id: 9164491240758317025 INSERTED reference to Tax Included Credits
+Promotion: 9164491240758317025 Successfully Updated
+Promotion object_id: 9164498270593317055 INSERTED reference to Tax Included Credits
+Promotion: 9164498270593317055 Successfully Updated
+Promotion object_id: 9162615597433739407 INSERTED reference to Tax Included Credits
+Promotion: 9162615597433739407 Successfully Updated
+Promotion object_id: 9161171348013609890 INSERTED reference to Tax Included Credits
+Promotion: 9161171348013609890 Successfully Updated
+Promotion object_id: 9161776951687502399 INSERTED reference to Tax Included Credits
+Promotion: 9161776951687502399 Successfully Updated
+Promotion object_id: 9163221187494625448 INSERTED reference to Tax Included Credits
+Promotion: 9163221187494625448 Successfully Updated
+Promotion object_id: 9163687424489645218 INSERTED reference to Tax Included Credits
+Promotion: 9163687424489645218 Successfully Updated
+Promotion object_id: 9163687966843645232 INSERTED reference to Tax Included Credits
+Promotion: 9163687966843645232 Successfully Updated
+Promotion object_id: 9163688061908645244 INSERTED reference to Tax Included Credits
+Promotion: 9163688061908645244 Successfully Updated
+Promotion object_id: 9163694215164645259 INSERTED reference to Tax Included Credits
+Promotion: 9163694215164645259 Successfully Updated
+Promotion object_id: 9163694291539622574 INSERTED reference to Tax Included Credits
+Promotion: 9163694291539622574 Successfully Updated
+Promotion object_id: 9163694452526824567 INSERTED reference to Tax Included Credits
+Promotion: 9163694452526824567 Successfully Updated
+Promotion object_id: 9163694641115645269 INSERTED reference to Tax Included Credits
+Promotion: 9163694641115645269 Successfully Updated
+Promotion object_id: 9163807344385232903 INSERTED reference to Tax Included Credits
+Promotion: 9163807344385232903 Successfully Updated
+Promotion object_id: 9163807447388015450 INSERTED reference to Tax Included Credits
+Promotion: 9163807447388015450 Successfully Updated
+Promotion object_id: 9163807497639970831 INSERTED reference to Tax Included Credits
+Promotion: 9163807497639970831 Successfully Updated
+Promotion object_id: 9163807601461232920 INSERTED reference to Tax Included Credits
+Promotion: 9163807601461232920 Successfully Updated
+Promotion object_id: 9163807674986970851 INSERTED reference to Tax Included Credits
+Promotion: 9163807674986970851 Successfully Updated
+Promotion object_id: 9163807737435232935 INSERTED reference to Tax Included Credits
+Promotion: 9163807737435232935 Successfully Updated
+Promotion object_id: 9163573325904744482 INSERTED reference to Tax Included Credits
+Promotion: 9163573325904744482 Successfully Updated
+Promotion object_id: 9163642091140824412 INSERTED reference to Tax Included Credits
+Promotion: 9163642091140824412 Successfully Updated
+Promotion object_id: 9156308353513082456 INSERTED reference to Tax Included Credits
+Promotion: 9156308353513082456 Successfully Updated
+Promotion object_id: 9159061859413921939 INSERTED reference to Tax Included Credits
+Promotion: 9159061859413921939 Successfully Updated
+Promotion object_id: 9153524728213325467 INSERTED reference to Tax Included Credits
+Promotion: 9153524728213325467 Successfully Updated
+Promotion object_id: 9153525269113326000 INSERTED reference to Tax Included Credits
+Promotion: 9153525269113326000 Successfully Updated
+Promotion object_id: 9161212543313215210 INSERTED reference to Tax Included Credits
+Promotion: 9161212543313215210 Successfully Updated
+Promotion object_id: 9162530900809703223 INSERTED reference to Tax Included Credits
+Promotion: 9162530900809703223 Successfully Updated
+Promotion object_id: 9153525538913326126 INSERTED reference to Tax Included Credits
+Promotion: 9153525538913326126 Successfully Updated
+Promotion object_id: 9156669604313700561 INSERTED reference to Tax Included Credits
+Promotion: 9156669604313700561 Successfully Updated
+Promotion object_id: 9153525616213326251 INSERTED reference to Tax Included Credits
+Promotion: 9153525616213326251 Successfully Updated
+Promotion object_id: 9153524078813320842 INSERTED reference to Tax Included Credits
+Promotion: 9153524078813320842 Successfully Updated
+Promotion object_id: 9158863837713668063 INSERTED reference to Tax Included Credits
+Promotion: 9158863837713668063 Successfully Updated
+Promotion object_id: 9159598242113794638 INSERTED reference to Tax Included Credits
+Promotion: 9159598242113794638 Successfully Updated
+Promotion object_id: 9159600232613820810 INSERTED reference to Tax Included Credits
+Promotion: 9159600232613820810 Successfully Updated
+Promotion object_id: 9159600431313822841 INSERTED reference to Tax Included Credits
+Promotion: 9159600431313822841 Successfully Updated
+Promotion object_id: 9159606108013847114 INSERTED reference to Tax Included Credits
+Promotion: 9159606108013847114 Successfully Updated
+Promotion object_id: 9163428896759709590 INSERTED reference to Tax Included Credits
+Promotion: 9163428896759709590 Successfully Updated
+Promotion object_id: 9163428944029442748 INSERTED reference to Tax Included Credits
+Promotion: 9163428944029442748 Successfully Updated
+Promotion object_id: 9163428987712517612 INSERTED reference to Tax Included Credits
+Promotion: 9163428987712517612 Successfully Updated
+Promotion object_id: 9163429024800442749 INSERTED reference to Tax Included Credits
+Promotion: 9163429024800442749 Successfully Updated
+Promotion object_id: 9163410578268517435 INSERTED reference to Tax Included Credits
+Promotion: 9163410578268517435 Successfully Updated
+Promotion object_id: 9163428845797442747 INSERTED reference to Tax Included Credits
+Promotion: 9163428845797442747 Successfully Updated
+Promotion object_id: 9160255773613239115 INSERTED reference to Tax Included Credits
+Promotion: 9160255773613239115 Successfully Updated
+Promotion object_id: 9155583197813200502 INSERTED reference to Tax Included Credits
+Promotion: 9155583197813200502 Successfully Updated
+Promotion object_id: 9155584511113202032 INSERTED reference to Tax Included Credits
+Promotion: 9155584511113202032 Successfully Updated
+Promotion object_id: 9150165510513181625 INSERTED reference to Tax Included Credits
+Promotion: 9150165510513181625 Successfully Updated
+Promotion object_id: 9150227969213138041 INSERTED reference to Tax Included Credits
+Promotion: 9150227969213138041 Successfully Updated
+Promotion object_id: 9150227989913138046 INSERTED reference to Tax Included Credits
+Promotion: 9150227989913138046 Successfully Updated
+Promotion object_id: 9150227997613138051 INSERTED reference to Tax Included Credits
+Promotion: 9150227997613138051 Successfully Updated
+Promotion object_id: 9150228008113138060 INSERTED reference to Tax Included Credits
+Promotion: 9150228008113138060 Successfully Updated
+Promotion object_id: 9150228008113138064 INSERTED reference to Tax Included Credits
+Promotion: 9150228008113138064 Successfully Updated
+Promotion object_id: 9150228008113138068 INSERTED reference to Tax Included Credits
+Promotion: 9150228008113138068 Successfully Updated
+Promotion object_id: 9150228008113138072 INSERTED reference to Tax Included Credits
+Promotion: 9150228008113138072 Successfully Updated
+Promotion object_id: 9150468786113165624 INSERTED reference to Tax Included Credits
+Promotion: 9150468786113165624 Successfully Updated
+Promotion object_id: 9150469247113165869 INSERTED reference to Tax Included Credits
+Promotion: 9150469247113165869 Successfully Updated
+Promotion object_id: 9150479612613177867 INSERTED reference to Tax Included Credits
+Promotion: 9150479612613177867 Successfully Updated
+Promotion object_id: 9150491370613183526 INSERTED reference to Tax Included Credits
+Promotion: 9150491370613183526 Successfully Updated
+Promotion object_id: 9150491380313183531 INSERTED reference to Tax Included Credits
+Promotion: 9150491380313183531 Successfully Updated
+Promotion object_id: 9150491388613183536 INSERTED reference to Tax Included Credits
+Promotion: 9150491388613183536 Successfully Updated
+Promotion object_id: 9150491396713183541 INSERTED reference to Tax Included Credits
+Promotion: 9150491396713183541 Successfully Updated
+Promotion object_id: 9150491405313183546 INSERTED reference to Tax Included Credits
+Promotion: 9150491405313183546 Successfully Updated
+Promotion object_id: 9150491413513183551 INSERTED reference to Tax Included Credits
+Promotion: 9150491413513183551 Successfully Updated
+Promotion object_id: 9150491449613183556 INSERTED reference to Tax Included Credits
+Promotion: 9150491449613183556 Successfully Updated
+Promotion object_id: 9150503369813190197 INSERTED reference to Tax Included Credits
+Promotion: 9150503369813190197 Successfully Updated
+Promotion object_id: 9150581005113199605 INSERTED reference to Tax Included Credits
+Promotion: 9150581005113199605 Successfully Updated
+Promotion object_id: 9150581302913199748 INSERTED reference to Tax Included Credits
+Promotion: 9150581302913199748 Successfully Updated
+Promotion object_id: 9150581402513199863 INSERTED reference to Tax Included Credits
+Promotion: 9150581402513199863 Successfully Updated
+Promotion object_id: 9150581803313199975 INSERTED reference to Tax Included Credits
+Promotion: 9150581803313199975 Successfully Updated
+Promotion object_id: 9150597646013199819 INSERTED reference to Tax Included Credits
+Promotion: 9150597646013199819 Successfully Updated
+Promotion object_id: 9150629626113217856 INSERTED reference to Tax Included Credits
+Promotion: 9150629626113217856 Successfully Updated
+Promotion object_id: 9150653065113246402 INSERTED reference to Tax Included Credits
+Promotion: 9150653065113246402 Successfully Updated
+Promotion object_id: 9150653112913246474 INSERTED reference to Tax Included Credits
+Promotion: 9150653112913246474 Successfully Updated
+Promotion object_id: 9150657344113250217 INSERTED reference to Tax Included Credits
+Promotion: 9150657344113250217 Successfully Updated
+Promotion object_id: 9150691369313385768 INSERTED reference to Tax Included Credits
+Promotion: 9150691369313385768 Successfully Updated
+Promotion object_id: 9150691977513387850 INSERTED reference to Tax Included Credits
+Promotion: 9150691977513387850 Successfully Updated
+Promotion object_id: 9150691993913387867 INSERTED reference to Tax Included Credits
+Promotion: 9150691993913387867 Successfully Updated
+Promotion object_id: 9150692230013388127 INSERTED reference to Tax Included Credits
+Promotion: 9150692230013388127 Successfully Updated
+Promotion object_id: 9150692241213388252 INSERTED reference to Tax Included Credits
+Promotion: 9150692241213388252 Successfully Updated
+Promotion object_id: 9150692260713388267 INSERTED reference to Tax Included Credits
+Promotion: 9150692260713388267 Successfully Updated
+Promotion object_id: 9150692286213388298 INSERTED reference to Tax Included Credits
+Promotion: 9150692286213388298 Successfully Updated
+Promotion object_id: 9150748122513689548 INSERTED reference to Tax Included Credits
+Promotion: 9150748122513689548 Successfully Updated
+Promotion object_id: 9150859068113491885 INSERTED reference to Tax Included Credits
+Promotion: 9150859068113491885 Successfully Updated
+Promotion object_id: 9150873728713503304 INSERTED reference to Tax Included Credits
+Promotion: 9150873728713503304 Successfully Updated
+Promotion object_id: 9150883296913509004 INSERTED reference to Tax Included Credits
+Promotion: 9150883296913509004 Successfully Updated
+Promotion object_id: 9150996223813502850 INSERTED reference to Tax Included Credits
+Promotion: 9150996223813502850 Successfully Updated
+Promotion object_id: 9151480546413324321 INSERTED reference to Tax Included Credits
+Promotion: 9151480546413324321 Successfully Updated
+Promotion object_id: 9151523884313376043 INSERTED reference to Tax Included Credits
+Promotion: 9151523884313376043 Successfully Updated
+Promotion object_id: 9151531282213382048 INSERTED reference to Tax Included Credits
+Promotion: 9151531282213382048 Successfully Updated
+Promotion object_id: 9151541282413400865 INSERTED reference to Tax Included Credits
+Promotion: 9151541282413400865 Successfully Updated
+Promotion object_id: 9151541561313401739 INSERTED reference to Tax Included Credits
+Promotion: 9151541561313401739 Successfully Updated
+Promotion object_id: 9151594006313899490 INSERTED reference to Tax Included Credits
+Promotion: 9151594006313899490 Successfully Updated
+Promotion object_id: 9151594067313899500 INSERTED reference to Tax Included Credits
+Promotion: 9151594067313899500 Successfully Updated
+Promotion object_id: 9151858580413218162 INSERTED reference to Tax Included Credits
+Promotion: 9151858580413218162 Successfully Updated
+Promotion object_id: 9151919141413284909 INSERTED reference to Tax Included Credits
+Promotion: 9151919141413284909 Successfully Updated
+Promotion object_id: 9151954376413313676 INSERTED reference to Tax Included Credits
+Promotion: 9151954376413313676 Successfully Updated
+Promotion object_id: 9152562042813041043 INSERTED reference to Tax Included Credits
+Promotion: 9152562042813041043 Successfully Updated
+Promotion object_id: 9152703633413141150 INSERTED reference to Tax Included Credits
+Promotion: 9152703633413141150 Successfully Updated
+Promotion object_id: 9152757945113639922 INSERTED reference to Tax Included Credits
+Promotion: 9152757945113639922 Successfully Updated
+Promotion object_id: 9152915282713768581 INSERTED reference to Tax Included Credits
+Promotion: 9152915282713768581 Successfully Updated
+Promotion object_id: 9152915333713768735 INSERTED reference to Tax Included Credits
+Promotion: 9152915333713768735 Successfully Updated
+Promotion object_id: 9152940697513788743 INSERTED reference to Tax Included Credits
+Promotion: 9152940697513788743 Successfully Updated
+Promotion object_id: 9153008998513871072 INSERTED reference to Tax Included Credits
+Promotion: 9153008998513871072 Successfully Updated
+Promotion object_id: 9153009502613871568 INSERTED reference to Tax Included Credits
+Promotion: 9153009502613871568 Successfully Updated
+Promotion object_id: 9153034575213892618 INSERTED reference to Tax Included Credits
+Promotion: 9153034575213892618 Successfully Updated
+Promotion object_id: 9153034575613892704 INSERTED reference to Tax Included Credits
+Promotion: 9153034575613892704 Successfully Updated
+Promotion object_id: 9153034680013893321 INSERTED reference to Tax Included Credits
+Promotion: 9153034680013893321 Successfully Updated
+Promotion object_id: 9153035016713893544 INSERTED reference to Tax Included Credits
+Promotion: 9153035016713893544 Successfully Updated
+Promotion object_id: 9153035660513896127 INSERTED reference to Tax Included Credits
+Promotion: 9153035660513896127 Successfully Updated
+Promotion object_id: 9153035678213896213 INSERTED reference to Tax Included Credits
+Promotion: 9153035678213896213 Successfully Updated
+Promotion object_id: 9153041876513397092 INSERTED reference to Tax Included Credits
+Promotion: 9153041876513397092 Successfully Updated
+Promotion object_id: 9153256727113860059 INSERTED reference to Tax Included Credits
+Promotion: 9153256727113860059 Successfully Updated
+Promotion object_id: 9153415739413981480 INSERTED reference to Tax Included Credits
+Promotion: 9153415739413981480 Successfully Updated
+Promotion object_id: 9153491243713303884 INSERTED reference to Tax Included Credits
+Promotion: 9153491243713303884 Successfully Updated
+Promotion object_id: 9153523767213320529 INSERTED reference to Tax Included Credits
+Promotion: 9153523767213320529 Successfully Updated
+Promotion object_id: 9153553057413151729 INSERTED reference to Tax Included Credits
+Promotion: 9153553057413151729 Successfully Updated
+Promotion object_id: 9153822878313680477 INSERTED reference to Tax Included Credits
+Promotion: 9153822878313680477 Successfully Updated
+Promotion object_id: 9154252954313818259 INSERTED reference to Tax Included Credits
+Promotion: 9154252954313818259 Successfully Updated
+Promotion object_id: 9154253029913818328 INSERTED reference to Tax Included Credits
+Promotion: 9154253029913818328 Successfully Updated
+Promotion object_id: 9154253096113818501 INSERTED reference to Tax Included Credits
+Promotion: 9154253096113818501 Successfully Updated
+Promotion object_id: 9154253222013818613 INSERTED reference to Tax Included Credits
+Promotion: 9154253222013818613 Successfully Updated
+Promotion object_id: 9154268662113836263 INSERTED reference to Tax Included Credits
+Promotion: 9154268662113836263 Successfully Updated
+Promotion object_id: 9154560597613899784 INSERTED reference to Tax Included Credits
+Promotion: 9154560597613899784 Successfully Updated
+Promotion object_id: 9154764355213439906 INSERTED reference to Tax Included Credits
+Promotion: 9154764355213439906 Successfully Updated
+Promotion object_id: 9155352401713907498 INSERTED reference to Tax Included Credits
+Promotion: 9155352401713907498 Successfully Updated
+Promotion object_id: 9155521888013234114 INSERTED reference to Tax Included Credits
+Promotion: 9155521888013234114 Successfully Updated
+Promotion object_id: 9155583023113200347 INSERTED reference to Tax Included Credits
+Promotion: 9155583023113200347 Successfully Updated
+Promotion object_id: 9155584511013201952 INSERTED reference to Tax Included Credits
+Promotion: 9155584511013201952 Successfully Updated
+Promotion object_id: 9155607456013390718 INSERTED reference to Tax Included Credits
+Promotion: 9155607456013390718 Successfully Updated
+Promotion object_id: 9155711127113468341 INSERTED reference to Tax Included Credits
+Promotion: 9155711127113468341 Successfully Updated
+Promotion object_id: 9155711146713468658 INSERTED reference to Tax Included Credits
+Promotion: 9155711146713468658 Successfully Updated
+Promotion object_id: 9155726660413478671 INSERTED reference to Tax Included Credits
+Promotion: 9155726660413478671 Successfully Updated
+Promotion object_id: 9155726667913478796 INSERTED reference to Tax Included Credits
+Promotion: 9155726667913478796 Successfully Updated
+Promotion object_id: 9155728708613482179 INSERTED reference to Tax Included Credits
+Promotion: 9155728708613482179 Successfully Updated
+Promotion object_id: 9155771776113907970 INSERTED reference to Tax Included Credits
+Promotion: 9155771776113907970 Successfully Updated
+Promotion object_id: 9155777902413910694 INSERTED reference to Tax Included Credits
+Promotion: 9155777902413910694 Successfully Updated
+Promotion object_id: 9155882804513436549 INSERTED reference to Tax Included Credits
+Promotion: 9155882804513436549 Successfully Updated
+Promotion object_id: 9155945582613488468 INSERTED reference to Tax Included Credits
+Promotion: 9155945582613488468 Successfully Updated
+Promotion object_id: 9155952154013995011 INSERTED reference to Tax Included Credits
+Promotion: 9155952154013995011 Successfully Updated
+Promotion object_id: 9156100635613171250 INSERTED reference to Tax Included Credits
+Promotion: 9156100635613171250 Successfully Updated
+Promotion object_id: 9156255393713992893 INSERTED reference to Tax Included Credits
+Promotion: 9156255393713992893 Successfully Updated
+Promotion object_id: 9156299503913068790 INSERTED reference to Tax Included Credits
+Promotion: 9156299503913068790 Successfully Updated
+Promotion object_id: 9156377023113145652 INSERTED reference to Tax Included Credits
+Promotion: 9156377023113145652 Successfully Updated
+Promotion object_id: 9156379487413076112 INSERTED reference to Tax Included Credits
+Promotion: 9156379487413076112 Successfully Updated
+Promotion object_id: 9156379764113076463 INSERTED reference to Tax Included Credits
+Promotion: 9156379764113076463 Successfully Updated
+Promotion object_id: 9156392952813161967 INSERTED reference to Tax Included Credits
+Promotion: 9156392952813161967 Successfully Updated
+Promotion object_id: 9156557631913300455 INSERTED reference to Tax Included Credits
+Promotion: 9156557631913300455 Successfully Updated
+Promotion object_id: 9156632120913667272 INSERTED reference to Tax Included Credits
+Promotion: 9156632120913667272 Successfully Updated
+Promotion object_id: 9156632836713668091 INSERTED reference to Tax Included Credits
+Promotion: 9156632836713668091 Successfully Updated
+Promotion object_id: 9156695606713458145 INSERTED reference to Tax Included Credits
+Promotion: 9156695606713458145 Successfully Updated
+Promotion object_id: 9156704137713464719 INSERTED reference to Tax Included Credits
+Promotion: 9156704137713464719 Successfully Updated
+Promotion object_id: 9157576502913103239 INSERTED reference to Tax Included Credits
+Promotion: 9157576502913103239 Successfully Updated
+Promotion object_id: 9157593175613121292 INSERTED reference to Tax Included Credits
+Promotion: 9157593175613121292 Successfully Updated
+Promotion object_id: 9158024255213028887 INSERTED reference to Tax Included Credits
+Promotion: 9158024255213028887 Successfully Updated
+Promotion object_id: 9158024672213029233 INSERTED reference to Tax Included Credits
+Promotion: 9158024672213029233 Successfully Updated
+Promotion object_id: 9158205992413673889 INSERTED reference to Tax Included Credits
+Promotion: 9158205992413673889 Successfully Updated
+Promotion object_id: 9158665922513039019 INSERTED reference to Tax Included Credits
+Promotion: 9158665922513039019 Successfully Updated
+Promotion object_id: 9158678710413045555 INSERTED reference to Tax Included Credits
+Promotion: 9158678710413045555 Successfully Updated
+Promotion object_id: 9158678872313045692 INSERTED reference to Tax Included Credits
+Promotion: 9158678872313045692 Successfully Updated
+Promotion object_id: 9158679368613046317 INSERTED reference to Tax Included Credits
+Promotion: 9158679368613046317 Successfully Updated
+Promotion object_id: 9158679520113046621 INSERTED reference to Tax Included Credits
+Promotion: 9158679520113046621 Successfully Updated
+Promotion object_id: 9158920855013764698 INSERTED reference to Tax Included Credits
+Promotion: 9158920855013764698 Successfully Updated
+Promotion object_id: 9159333657713146350 INSERTED reference to Tax Included Credits
+Promotion: 9159333657713146350 Successfully Updated
+Promotion object_id: 9160004396413177347 INSERTED reference to Tax Included Credits
+Promotion: 9160004396413177347 Successfully Updated
+Promotion object_id: 9160481232013744982 INSERTED reference to Tax Included Credits
+Promotion: 9160481232013744982 Successfully Updated
+Promotion object_id: 9160489138413753288 INSERTED reference to Tax Included Credits
+Promotion: 9160489138413753288 Successfully Updated
+Promotion object_id: 9160740793513913127 INSERTED reference to Tax Included Credits
+Promotion: 9160740793513913127 Successfully Updated
+Promotion object_id: 9160756980013921961 INSERTED reference to Tax Included Credits
+Promotion: 9160756980013921961 Successfully Updated
+Promotion object_id: 9160757696113960800 INSERTED reference to Tax Included Credits
+Promotion: 9160757696113960800 Successfully Updated
+Promotion object_id: 9160778640613972179 INSERTED reference to Tax Included Credits
+Promotion: 9160778640613972179 Successfully Updated
+Promotion object_id: 9160783800713938480 INSERTED reference to Tax Included Credits
+Promotion: 9160783800713938480 Successfully Updated
+Promotion object_id: 9160790936213983513 INSERTED reference to Tax Included Credits
+Promotion: 9160790936213983513 Successfully Updated
+Promotion object_id: 9160795262713988820 INSERTED reference to Tax Included Credits
+Promotion: 9160795262713988820 Successfully Updated
+Promotion object_id: 9160795421013989040 INSERTED reference to Tax Included Credits
+Promotion: 9160795421013989040 Successfully Updated
+Promotion object_id: 9161290921613794857 INSERTED reference to Tax Included Credits
+Promotion: 9161290921613794857 Successfully Updated
+Promotion object_id: 9161940047213013962 INSERTED reference to Tax Included Credits
+Promotion: 9161940047213013962 Successfully Updated
+Promotion object_id: 9161940240813014696 INSERTED reference to Tax Included Credits
+Promotion: 9161940240813014696 Successfully Updated
+Promotion object_id: 9161940915813017135 INSERTED reference to Tax Included Credits
+Promotion: 9161940915813017135 Successfully Updated
+Promotion object_id: 9161942150113022914 INSERTED reference to Tax Included Credits
+Promotion: 9161942150113022914 Successfully Updated
+Promotion object_id: 9161949961966434555 INSERTED reference to Tax Included Credits
+Promotion: 9161949961966434555 Successfully Updated
+Promotion object_id: 9163030499237653776 INSERTED reference to Tax Included Credits
+Promotion: 9163030499237653776 Successfully Updated
+Promotion object_id: 9163030991225769051 INSERTED reference to Tax Included Credits
+Promotion: 9163030991225769051 Successfully Updated
+Promotion object_id: 9163031395801653785 INSERTED reference to Tax Included Credits
+Promotion: 9163031395801653785 Successfully Updated
+Promotion object_id: 9163045690469415162 INSERTED reference to Tax Included Credits
+Promotion: 9163045690469415162 Successfully Updated
+Promotion object_id: 9163135403190084660 INSERTED reference to Tax Included Credits
+Promotion: 9163135403190084660 Successfully Updated
+Promotion object_id: 9163135659177061363 INSERTED reference to Tax Included Credits
+Promotion: 9163135659177061363 Successfully Updated
+Promotion object_id: 9163144803358084738 INSERTED reference to Tax Included Credits
+Promotion: 9163144803358084738 Successfully Updated
+Promotion object_id: 9163279587523581231 INSERTED reference to Tax Included Credits
+Promotion: 9163279587523581231 Successfully Updated
+Promotion object_id: 9163340868003699844 INSERTED reference to Tax Included Credits
+Promotion: 9163340868003699844 Successfully Updated
+Promotion object_id: 9163685685887622520 INSERTED reference to Tax Included Credits
+Promotion: 9163685685887622520 Successfully Updated
+Promotion object_id: 9164921609947303451 INSERTED reference to Tax Included Credits
+Promotion: 9164921609947303451 Successfully Updated
+Promotion object_id: 9164930482046891011 INSERTED reference to Tax Included Credits
+Promotion: 9164930482046891011 Successfully Updated
+Promotion object_id: 9160407039813932476 INSERTED reference to Tax Included Credits
+Promotion: 9160407039813932476 Successfully Updated
+Promotion object_id: 9159076222913145232 INSERTED reference to Tax Included Credits
+Promotion: 9159076222913145232 Successfully Updated
+Promotion object_id: 9160675422113633759 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED
+Promotion object_id: 9152222266513216902 INSERTED reference to Tax Included Credits
+Promotion: 9152222266513216902 Successfully Updated
+Promotion object_id: 9152222267013216906 INSERTED reference to Tax Included Credits
+Promotion: 9152222267013216906 Successfully Updated
+Promotion object_id: 9152222267013216910 INSERTED reference to Tax Included Credits
+Promotion: 9152222267013216910 Successfully Updated
+Promotion object_id: 9152222267013216914 INSERTED reference to Tax Included Credits
+Promotion: 9152222267013216914 Successfully Updated
+Promotion object_id: 9152222267013216918 INSERTED reference to Tax Included Credits
+Promotion: 9152222267013216918 Successfully Updated
+Promotion object_id: 9152222267013216922 INSERTED reference to Tax Included Credits
+Promotion: 9152222267013216922 Successfully Updated
+Promotion object_id: 9152222267013216926 INSERTED reference to Tax Included Credits
+Promotion: 9152222267013216926 Successfully Updated
+Promotion object_id: 9152222267113216930 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216930 Successfully Updated
+Promotion object_id: 9152222267113216934 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216934 Successfully Updated
+Promotion object_id: 9152222267113216962 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216962 Successfully Updated
+Promotion object_id: 9152222267113216966 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216966 Successfully Updated
+Promotion object_id: 9152222267113216970 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216970 Successfully Updated
+Promotion object_id: 9152222267113216974 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216974 Successfully Updated
+Promotion object_id: 9152222267113216978 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216978 Successfully Updated
+Promotion object_id: 9152222432213217102 INSERTED reference to Tax Included Credits
+Promotion: 9152222432213217102 Successfully Updated
+Promotion object_id: 9152222433213217106 INSERTED reference to Tax Included Credits
+Promotion: 9152222433213217106 Successfully Updated
+Promotion object_id: 9152222433213217110 INSERTED reference to Tax Included Credits
+Promotion: 9152222433213217110 Successfully Updated
+Promotion object_id: 9152222433213217114 INSERTED reference to Tax Included Credits
+Promotion: 9152222433213217114 Successfully Updated
+Promotion object_id: 9160005339513179707 INSERTED reference to Tax Included Credits
+Promotion: 9160005339513179707 Successfully Updated
+Promotion object_id: 9160005340313179776 INSERTED reference to Tax Included Credits
+Promotion: 9160005340313179776 Successfully Updated
+Promotion object_id: 9160132066213290541 INSERTED reference to Tax Included Credits
+Promotion: 9160132066213290541 Successfully Updated
+Promotion object_id: 9160132136213290750 INSERTED reference to Tax Included Credits
+Promotion: 9160132136213290750 Successfully Updated
+Promotion object_id: 9160005340313179786 INSERTED reference to Tax Included Credits
+Promotion: 9160005340313179786 Successfully Updated
+Promotion object_id: 9160005341013179876 INSERTED reference to Tax Included Credits
+Promotion: 9160005341013179876 Successfully Updated
+Promotion object_id: 9152222433213217126 INSERTED reference to Tax Included Credits
+Promotion: 9152222433213217126 Successfully Updated
+Promotion object_id: 9152222433213217130 INSERTED reference to Tax Included Credits
+Promotion: 9152222433213217130 Successfully Updated
+Promotion object_id: 9156379487513076192 INSERTED reference to Tax Included Credits
+Promotion: 9156379487513076192 Successfully Updated
+Promotion object_id: 9156379764213076543 INSERTED reference to Tax Included Credits
+Promotion: 9156379764213076543 Successfully Updated
+Promotion object_id: 9150995295613502264 INSERTED reference to Tax Included Credits
+Promotion: 9150995295613502264 Successfully Updated
+Promotion object_id: 9151228215313652387 INSERTED reference to Tax Included Credits
+Promotion: 9151228215313652387 Successfully Updated
+Promotion object_id: 9164783177314235043 INSERTED reference to Tax Included Credits
+Promotion: 9164783177314235043 Successfully Updated
+Promotion object_id: 9164689012757653890 INSERTED reference to Tax Included Credits
+Promotion: 9164689012757653890 Successfully Updated
+Promotion object_id: 9164691478662619735 INSERTED reference to Tax Included Credits
+Promotion: 9164691478662619735 Successfully Updated
+Promotion object_id: 9164604426362174764 INSERTED reference to Tax Included Credits
+Promotion: 9164604426362174764 Successfully Updated
+Promotion object_id: 9164750982537855176 INSERTED reference to Tax Included Credits
+Promotion: 9164750982537855176 Successfully Updated
+Promotion object_id: 9164650468098174932 INSERTED reference to Tax Included Credits
+Promotion: 9164650468098174932 Successfully Updated
+Promotion object_id: 9164691056576619734 INSERTED reference to Tax Included Credits
+Promotion: 9164691056576619734 Successfully Updated
+Promotion object_id: 9164692500847653898 INSERTED reference to Tax Included Credits
+Promotion: 9164692500847653898 Successfully Updated
+Promotion object_id: 9155681459213186902 INSERTED reference to Tax Included Credits
+Promotion: 9155681459213186902 Successfully Updated
+Promotion object_id: 9151925168213290663 INSERTED reference to Tax Included Credits
+Promotion: 9151925168213290663 Successfully Updated
+Promotion object_id: 9155858551613926361 INSERTED reference to Tax Included Credits
+Promotion: 9155858551613926361 Successfully Updated
+Promotion object_id: 9155856897013923176 INSERTED reference to Tax Included Credits
+Promotion: 9155856897013923176 Successfully Updated
+Promotion object_id: 9164610982404174861 INSERTED reference to Tax Included Credits
+Promotion: 9164610982404174861 Successfully Updated
+Promotion object_id: 9164777106809855309 INSERTED reference to Tax Included Credits
+Promotion: 9164777106809855309 Successfully Updated
+Promotion object_id: 9164777281181855310 INSERTED reference to Tax Included Credits
+Promotion: 9164777281181855310 Successfully Updated
+Promotion object_id: 9162861745797619725 INSERTED reference to Tax Included Credits
+Promotion: 9162861745797619725 Successfully Updated
+Promotion object_id: 9162727544363155265 INSERTED reference to Tax Included Credits
+Promotion: 9162727544363155265 Successfully Updated
+Promotion object_id: 9164627743206675440 INSERTED reference to Tax Included Credits
+Promotion: 9164627743206675440 Successfully Updated
+Promotion object_id: 9164777146675693293 INSERTED reference to Tax Included Credits
+Promotion: 9164777146675693293 Successfully Updated
+Promotion object_id: 9164776977234235028 INSERTED reference to Tax Included Credits
+Promotion: 9164776977234235028 Successfully Updated
+Promotion object_id: 9164650957141317618 INSERTED reference to Tax Included Credits
+Promotion: 9164650957141317618 Successfully Updated
+Promotion object_id: 9154331122213968768 INSERTED reference to Tax Included Credits
+Promotion: 9154331122213968768 Successfully Updated
+Promotion object_id: 9162265729018768079 INSERTED reference to Tax Included Credits
+Promotion: 9162265729018768079 Successfully Updated
+Promotion object_id: 9161299933685665401 INSERTED reference to Tax Included Credits
+Promotion: 9161299933685665401 Successfully Updated
+Promotion object_id: 9154283781913031958 INSERTED reference to Tax Included Credits
+Promotion: 9154283781913031958 Successfully Updated
+Promotion object_id: 9152800240613765059 INSERTED reference to Tax Included Credits
+Promotion: 9152800240613765059 Successfully Updated
+Promotion object_id: 9162182663638524066 INSERTED reference to Tax Included Credits
+Promotion: 9162182663638524066 Successfully Updated
+Promotion object_id: 9162317870771320348 INSERTED reference to Tax Included Credits
+Promotion: 9162317870771320348 Successfully Updated
+Promotion object_id: 9162182960064176506 INSERTED reference to Tax Included Credits
+Promotion: 9162182960064176506 Successfully Updated
+Promotion object_id: 9162183177556604459 INSERTED reference to Tax Included Credits
+Promotion: 9162183177556604459 Successfully Updated
+Promotion object_id: 9162232936472639225 INSERTED reference to Tax Included Credits
+Promotion: 9162232936472639225 Successfully Updated
+Promotion object_id: 9162241461136637331 INSERTED reference to Tax Included Credits
+Promotion: 9162241461136637331 Successfully Updated
+Promotion object_id: 9162320949211982013 INSERTED reference to Tax Included Credits
+Promotion: 9162320949211982013 Successfully Updated
+Promotion object_id: 9162241486767639357 INSERTED reference to Tax Included Credits
+Promotion: 9162241486767639357 Successfully Updated
+Promotion object_id: 9162232988910637127 INSERTED reference to Tax Included Credits
+Promotion: 9162232988910637127 Successfully Updated
+Promotion object_id: 9162241252962637326 INSERTED reference to Tax Included Credits
+Promotion: 9162241252962637326 Successfully Updated
+Promotion object_id: 9162241261790639355 INSERTED reference to Tax Included Credits
+Promotion: 9162241261790639355 Successfully Updated
+Promotion object_id: 9162241319441639356 INSERTED reference to Tax Included Credits
+Promotion: 9162241319441639356 Successfully Updated
+Promotion object_id: 9162241421751637328 INSERTED reference to Tax Included Credits
+Promotion: 9162241421751637328 Successfully Updated
+Promotion object_id: 9162241441863637329 INSERTED reference to Tax Included Credits
+Promotion: 9162241441863637329 Successfully Updated
+Promotion object_id: 9162241510023637332 INSERTED reference to Tax Included Credits
+Promotion: 9162241510023637332 Successfully Updated
+Promotion object_id: 9162241532532637333 INSERTED reference to Tax Included Credits
+Promotion: 9162241532532637333 Successfully Updated
+Promotion object_id: 9162241549350637334 INSERTED reference to Tax Included Credits
+Promotion: 9162241549350637334 Successfully Updated
+Promotion object_id: 9162241612047637335 INSERTED reference to Tax Included Credits
+Promotion: 9162241612047637335 Successfully Updated
+Promotion object_id: 9162241644274639359 INSERTED reference to Tax Included Credits
+Promotion: 9162241644274639359 Successfully Updated
+Promotion object_id: 9162241679340637336 INSERTED reference to Tax Included Credits
+Promotion: 9162241679340637336 Successfully Updated
+Promotion object_id: 9162320098822982009 INSERTED reference to Tax Included Credits
+Promotion: 9162320098822982009 Successfully Updated
+Promotion object_id: 9162320099792982010 INSERTED reference to Tax Included Credits
+Promotion: 9162320099792982010 Successfully Updated
+Promotion object_id: 9153470300013287887 INSERTED reference to Tax Included Credits
+Promotion: 9153470300013287887 Successfully Updated
+Promotion object_id: 9154425741913505336 INSERTED reference to Tax Included Credits
+Promotion: 9154425741913505336 Successfully Updated
+Promotion object_id: 9164391584860492552 INSERTED reference to Tax Included Credits
+Promotion: 9164391584860492552 Successfully Updated
+Promotion object_id: 9154829195413214729 INSERTED reference to Tax Included Credits
+Promotion: 9154829195413214729 Successfully Updated
+Promotion object_id: 9154829860713215107 INSERTED reference to Tax Included Credits
+Promotion: 9154829860713215107 Successfully Updated
+Promotion object_id: 9154829926113215117 INSERTED reference to Tax Included Credits
+Promotion: 9154829926113215117 Successfully Updated
+Promotion object_id: 9154830089313215232 INSERTED reference to Tax Included Credits
+Promotion: 9154830089313215232 Successfully Updated
+Promotion object_id: 9154829117313214724 INSERTED reference to Tax Included Credits
+Promotion: 9154829117313214724 Successfully Updated
+Promotion object_id: 9154829209813214734 INSERTED reference to Tax Included Credits
+Promotion: 9154829209813214734 Successfully Updated
+Promotion object_id: 9154829887013215112 INSERTED reference to Tax Included Credits
+Promotion: 9154829887013215112 Successfully Updated
+Promotion object_id: 9154830055313215227 INSERTED reference to Tax Included Credits
+Promotion: 9154830055313215227 Successfully Updated
+Promotion object_id: 9150692332013388417 INSERTED reference to Tax Included Credits
+Promotion: 9150692332013388417 Successfully Updated
+Promotion object_id: 9150692461313389333 INSERTED reference to Tax Included Credits
+Promotion: 9150692461313389333 Successfully Updated
+Promotion object_id: 9150692471913389341 INSERTED reference to Tax Included Credits
+Promotion: 9150692471913389341 Successfully Updated
+Promotion object_id: 9151471753213316802 INSERTED reference to Tax Included Credits
+Promotion: 9151471753213316802 Successfully Updated
+Promotion object_id: 9151472274113317503 INSERTED reference to Tax Included Credits
+Promotion: 9151472274113317503 Successfully Updated
+Promotion object_id: 9151480287013323518 INSERTED reference to Tax Included Credits
+Promotion: 9151480287013323518 Successfully Updated
+Promotion object_id: 9151480298413323625 INSERTED reference to Tax Included Credits
+Promotion: 9151480298413323625 Successfully Updated
+Promotion object_id: 9151524216413376939 INSERTED reference to Tax Included Credits
+Promotion: 9151524216413376939 Successfully Updated
+Promotion object_id: 9151524474913377334 INSERTED reference to Tax Included Credits
+Promotion: 9151524474913377334 Successfully Updated
+Promotion object_id: 9151548505413407139 INSERTED reference to Tax Included Credits
+Promotion: 9151548505413407139 Successfully Updated
+Promotion object_id: 9151738806913653639 INSERTED reference to Tax Included Credits
+Promotion: 9151738806913653639 Successfully Updated
+Promotion object_id: 9151739366613655139 INSERTED reference to Tax Included Credits
+Promotion: 9151739366613655139 Successfully Updated
+Promotion object_id: 9151739974213657509 INSERTED reference to Tax Included Credits
+Promotion: 9151739974213657509 Successfully Updated
+Promotion object_id: 9152093235813010834 INSERTED reference to Tax Included Credits
+Promotion: 9152093235813010834 Successfully Updated
+Promotion object_id: 9152094914213012139 INSERTED reference to Tax Included Credits
+Promotion: 9152094914213012139 Successfully Updated
+Promotion object_id: 9152502048513973847 INSERTED reference to Tax Included Credits
+Promotion: 9152502048513973847 Successfully Updated
+Promotion object_id: 9152638490713513558 INSERTED reference to Tax Included Credits
+Promotion: 9152638490713513558 Successfully Updated
+Promotion object_id: 9152697763513574134 INSERTED reference to Tax Included Credits
+Promotion: 9152697763513574134 Successfully Updated
+Promotion object_id: 9152698419413574839 INSERTED reference to Tax Included Credits
+Promotion: 9152698419413574839 Successfully Updated
+Promotion object_id: 9153585182213373605 INSERTED reference to Tax Included Credits
+Promotion: 9153585182213373605 Successfully Updated
+Promotion object_id: 9153619974913455374 INSERTED reference to Tax Included Credits
+Promotion: 9153619974913455374 Successfully Updated
+Promotion object_id: 9153639718313262535 INSERTED reference to Tax Included Credits
+Promotion: 9153639718313262535 Successfully Updated
+Promotion object_id: 9153956754713596339 INSERTED reference to Tax Included Credits
+Promotion: 9153956754713596339 Successfully Updated
+Promotion object_id: 9153974740713607366 INSERTED reference to Tax Included Credits
+Promotion: 9153974740713607366 Successfully Updated
+Promotion object_id: 9153983722513615436 INSERTED reference to Tax Included Credits
+Promotion: 9153983722513615436 Successfully Updated
+Promotion object_id: 9154807164113492135 INSERTED reference to Tax Included Credits
+Promotion: 9154807164113492135 Successfully Updated
+Promotion object_id: 9154815735013500435 INSERTED reference to Tax Included Credits
+Promotion: 9154815735013500435 Successfully Updated
+Promotion object_id: 9155531799513040843 INSERTED reference to Tax Included Credits
+Promotion: 9155531799513040843 Successfully Updated
+Promotion object_id: 9156401799313170822 INSERTED reference to Tax Included Credits
+Promotion: 9156401799313170822 Successfully Updated
+Promotion object_id: 9158675548313043709 INSERTED reference to Tax Included Credits
+Promotion: 9158675548313043709 Successfully Updated
+Promotion object_id: 9158765501413623749 INSERTED reference to Tax Included Credits
+Promotion: 9158765501413623749 Successfully Updated
+Promotion object_id: 9158765506713623893 INSERTED reference to Tax Included Credits
+Promotion: 9158765506713623893 Successfully Updated
+Promotion object_id: 9158765852713655292 INSERTED reference to Tax Included Credits
+Promotion: 9158765852713655292 Successfully Updated
+Promotion object_id: 9158765990713677153 INSERTED reference to Tax Included Credits
+Promotion: 9158765990713677153 Successfully Updated
+Promotion object_id: 9158868040613720248 INSERTED reference to Tax Included Credits
+Promotion: 9158868040613720248 Successfully Updated
+Promotion object_id: 9158902631413409231 INSERTED reference to Tax Included Credits
+Promotion: 9158902631413409231 Successfully Updated
+Promotion object_id: 9158902655113417022 INSERTED reference to Tax Included Credits
+Promotion: 9158902655113417022 Successfully Updated
+Promotion object_id: 9158922833013765924 INSERTED reference to Tax Included Credits
+Promotion: 9158922833013765924 Successfully Updated
+Promotion object_id: 9159076222913145176 INSERTED reference to Tax Included Credits
+Promotion: 9159076222913145176 Successfully Updated
+Promotion object_id: 9159342468813153037 INSERTED reference to Tax Included Credits
+Promotion: 9159342468813153037 Successfully Updated
+Promotion object_id: 9159598116113792107 INSERTED reference to Tax Included Credits
+Promotion: 9159598116113792107 Successfully Updated
+Promotion object_id: 9159598242113794620 INSERTED reference to Tax Included Credits
+Promotion: 9159598242113794620 Successfully Updated
+Promotion object_id: 9159599900413820010 INSERTED reference to Tax Included Credits
+Promotion: 9159599900413820010 Successfully Updated
+Promotion object_id: 9159600003813820300 INSERTED reference to Tax Included Credits
+Promotion: 9159600003813820300 Successfully Updated
+Promotion object_id: 9159600232413820774 INSERTED reference to Tax Included Credits
+Promotion: 9159600232413820774 Successfully Updated
+Promotion object_id: 9159600431413822925 INSERTED reference to Tax Included Credits
+Promotion: 9159600431413822925 Successfully Updated
+Promotion object_id: 9159606108113847198 INSERTED reference to Tax Included Credits
+Promotion: 9159606108113847198 Successfully Updated
+Promotion object_id: 9159832520413647453 INSERTED reference to Tax Included Credits
+Promotion: 9159832520413647453 Successfully Updated
+Promotion object_id: 9159996615213958827 INSERTED reference to Tax Included Credits
+Promotion: 9159996615213958827 Successfully Updated
+Promotion object_id: 9159997856013960056 INSERTED reference to Tax Included Credits
+Promotion: 9159997856013960056 Successfully Updated
+Promotion object_id: 9160003113713174887 INSERTED reference to Tax Included Credits
+Promotion: 9160003113713174887 Successfully Updated
+Promotion object_id: 9160005336613179559 INSERTED reference to Tax Included Credits
+Promotion: 9160005336613179559 Successfully Updated
+Promotion object_id: 9160005338613179626 INSERTED reference to Tax Included Credits
+Promotion: 9160005338613179626 Successfully Updated
+Promotion object_id: 9160005339513179725 INSERTED reference to Tax Included Credits
+Promotion: 9160005339513179725 Successfully Updated
+Promotion object_id: 9160005340313179837 INSERTED reference to Tax Included Credits
+Promotion: 9160005340313179837 Successfully Updated
+Promotion object_id: 9160005341013179880 INSERTED reference to Tax Included Credits
+Promotion: 9160005341013179880 Successfully Updated
+Promotion object_id: 9160007108413181802 INSERTED reference to Tax Included Credits
+Promotion: 9160007108413181802 Successfully Updated
+Promotion object_id: 9160008778713185480 INSERTED reference to Tax Included Credits
+Promotion: 9160008778713185480 Successfully Updated
+Promotion object_id: 9160131828513290174 INSERTED reference to Tax Included Credits
+Promotion: 9160131828513290174 Successfully Updated
+Promotion object_id: 9160131976913290422 INSERTED reference to Tax Included Credits
+Promotion: 9160131976913290422 Successfully Updated
+Promotion object_id: 9160132066213290463 INSERTED reference to Tax Included Credits
+Promotion: 9160132066213290463 Successfully Updated
+Promotion object_id: 9160132136213290728 INSERTED reference to Tax Included Credits
+Promotion: 9160132136213290728 Successfully Updated
+Promotion object_id: 9160740793513913123 INSERTED reference to Tax Included Credits
+Promotion: 9160740793513913123 Successfully Updated
+Promotion object_id: 9160757413713922310 INSERTED reference to Tax Included Credits
+Promotion: 9160757413713922310 Successfully Updated
+Promotion object_id: 9160758398113924017 INSERTED reference to Tax Included Credits
+Promotion: 9160758398113924017 Successfully Updated
+Promotion object_id: 9160758855913924410 INSERTED reference to Tax Included Credits
+Promotion: 9160758855913924410 Successfully Updated
+Promotion object_id: 9160759236113924762 INSERTED reference to Tax Included Credits
+Promotion: 9160759236113924762 Successfully Updated
+Promotion object_id: 9160759678413925252 INSERTED reference to Tax Included Credits
+Promotion: 9160759678413925252 Successfully Updated
+Promotion object_id: 9160760348513925471 INSERTED reference to Tax Included Credits
+Promotion: 9160760348513925471 Successfully Updated
+Promotion object_id: 9160760623013925897 INSERTED reference to Tax Included Credits
+Promotion: 9160760623013925897 Successfully Updated
+Promotion object_id: 9160793781113985396 INSERTED reference to Tax Included Credits
+Promotion: 9160793781113985396 Successfully Updated
+Promotion object_id: 9160793807913985645 INSERTED reference to Tax Included Credits
+Promotion: 9160793807913985645 Successfully Updated
+Promotion object_id: 9161327922013818773 INSERTED reference to Tax Included Credits
+Promotion: 9161327922013818773 Successfully Updated
+Promotion object_id: 9161327925313818860 INSERTED reference to Tax Included Credits
+Promotion: 9161327925313818860 Successfully Updated
+Promotion object_id: 9161344535813790770 INSERTED reference to Tax Included Credits
+Promotion: 9161344535813790770 Successfully Updated
+Promotion object_id: 9161344547513790834 INSERTED reference to Tax Included Credits
+Promotion: 9161344547513790834 Successfully Updated
+Promotion object_id: 9161941002913017228 INSERTED reference to Tax Included Credits
+Promotion: 9161941002913017228 Successfully Updated
+Promotion object_id: 9161941099013017914 INSERTED reference to Tax Included Credits
+Promotion: 9161941099013017914 Successfully Updated
+Promotion object_id: 9153469766013287661 INSERTED reference to Tax Included Credits
+Promotion: 9153469766013287661 Successfully Updated
+Promotion object_id: 9153469849413287671 INSERTED reference to Tax Included Credits
+Promotion: 9153469849413287671 Successfully Updated
+Promotion object_id: 9153470564813288022 INSERTED reference to Tax Included Credits
+Promotion: 9153470564813288022 Successfully Updated
+Promotion object_id: 9153469723413287656 INSERTED reference to Tax Included Credits
+Promotion: 9153469723413287656 Successfully Updated
+Promotion object_id: 9153469804413287666 INSERTED reference to Tax Included Credits
+Promotion: 9153469804413287666 Successfully Updated
+Promotion object_id: 9153470532213288017 INSERTED reference to Tax Included Credits
+Promotion: 9153470532213288017 Successfully Updated
+Promotion object_id: 9155410024213141720 INSERTED reference to Tax Included Credits
+Promotion: 9155410024213141720 Successfully Updated
+Promotion object_id: 9155409697713141504 INSERTED reference to Tax Included Credits
+Promotion: 9155409697713141504 Successfully Updated
+Promotion object_id: 9156303605313190930 INSERTED reference to Tax Included Credits
+Promotion: 9156303605313190930 Successfully Updated
+Promotion object_id: 9156312806613953621 INSERTED reference to Tax Included Credits
+Promotion: 9156312806613953621 Successfully Updated
+Promotion object_id: 9155704390513943483 INSERTED reference to Tax Included Credits
+Promotion: 9155704390513943483 Successfully Updated
+Promotion object_id: 9155711180913950590 INSERTED reference to Tax Included Credits
+Promotion: 9155711180913950590 Successfully Updated
+Promotion object_id: 9155410044813141825 INSERTED reference to Tax Included Credits
+Promotion: 9155410044813141825 Successfully Updated
+Promotion object_id: 9155409449713141392 INSERTED reference to Tax Included Credits
+Promotion: 9155409449713141392 Successfully Updated
+Promotion object_id: 9155409889413141715 INSERTED reference to Tax Included Credits
+Promotion: 9155409889413141715 Successfully Updated
+Promotion object_id: 9161224004613222775 INSERTED reference to Tax Included Credits
+Promotion: 9161224004613222775 Successfully Updated
+Promotion object_id: 9155409633113141499 INSERTED reference to Tax Included Credits
+Promotion: 9155409633113141499 Successfully Updated
+Promotion object_id: 9155409879413141710 INSERTED reference to Tax Included Credits
+Promotion: 9155409879413141710 Successfully Updated
+Promotion object_id: 9155410057813141830 INSERTED reference to Tax Included Credits
+Promotion: 9155410057813141830 Successfully Updated
+Promotion object_id: 9156192893413938014 INSERTED reference to Tax Included Credits
+Promotion: 9156192893413938014 Successfully Updated
+Promotion object_id: 9153917903813349202 INSERTED reference to Tax Included Credits
+Promotion: 9153917903813349202 Successfully Updated
+Promotion object_id: 9149675144813097567 INSERTED reference to Tax Included Credits
+Promotion: 9149675144813097567 Successfully Updated
+Promotion object_id: 9150082841513470087 INSERTED reference to Tax Included Credits
+Promotion: 9150082841513470087 Successfully Updated
+Promotion object_id: 9150082848713470092 INSERTED reference to Tax Included Credits
+Promotion: 9150082848713470092 Successfully Updated
+Promotion object_id: 9158364312313775776 INSERTED reference to Tax Included Credits
+Promotion: 9158364312313775776 Successfully Updated
+Promotion object_id: 9158364312313775781 INSERTED reference to Tax Included Credits
+Promotion: 9158364312313775781 Successfully Updated
+Promotion object_id: 9158364312313775804 INSERTED reference to Tax Included Credits
+Promotion: 9158364312313775804 Successfully Updated
+Promotion object_id: 9159033666113378903 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED
+Promotion object_id: 9159033882713379042 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED
+Promotion object_id: 9159034013313379155 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED
+Promotion object_id: 9159350119513208151 INSERTED reference to Tax Included Credits
+Promotion: 9159350119513208151 Successfully Updated
+Promotion object_id: 9159350119713208156 INSERTED reference to Tax Included Credits
+Promotion: 9159350119713208156 Successfully Updated
+Promotion object_id: 9159350067213208141 INSERTED reference to Tax Included Credits
+Promotion: 9159350067213208141 Successfully Updated
+Promotion object_id: 9159350119313208146 INSERTED reference to Tax Included Credits
+Promotion: 9159350119313208146 Successfully Updated
+Promotion object_id: 9159350119913208161 INSERTED reference to Tax Included Credits
+Promotion: 9159350119913208161 Successfully Updated
+Promotion object_id: 9159350120013208166 INSERTED reference to Tax Included Credits
+Promotion: 9159350120013208166 Successfully Updated
+Promotion object_id: 9163410821067963319 INSERTED reference to Tax Included Credits
+Promotion: 9163410821067963319 Successfully Updated
+Promotion object_id: 9163030331266415131 INSERTED reference to Tax Included Credits
+Promotion: 9163030331266415131 Successfully Updated
+Promotion object_id: 9163030499396653779 INSERTED reference to Tax Included Credits
+Promotion: 9163030499396653779 Successfully Updated
+Promotion object_id: 9164433639893595590 INSERTED reference to Tax Included Credits
+Promotion: 9164433639893595590 Successfully Updated
+Promotion object_id: 9164775176394855277 INSERTED reference to Tax Included Credits
+Promotion: 9164775176394855277 Successfully Updated
+Promotion object_id: 9164775677653693267 INSERTED reference to Tax Included Credits
+Promotion: 9164775677653693267 Successfully Updated
+Promotion object_id: 9161940653197782379 INSERTED reference to Tax Included Credits
+Promotion: 9161940653197782379 Successfully Updated
+Promotion object_id: 9162607584202256040 INSERTED reference to Tax Included Credits
+Promotion: 9162607584202256040 Successfully Updated
+Promotion object_id: 9162848222183813621 INSERTED reference to Tax Included Credits
+Promotion: 9162848222183813621 Successfully Updated
+Promotion object_id: 9164602790034317396 INSERTED reference to Tax Included Credits
+Promotion: 9164602790034317396 Successfully Updated
+Promotion object_id: 9163262016790813470 INSERTED reference to Tax Included Credits
+Promotion: 9163262016790813470 Successfully Updated
+Promotion object_id: 9163262088736648824 INSERTED reference to Tax Included Credits
+Promotion: 9163262088736648824 Successfully Updated
+Promotion object_id: 9163270797922059643 INSERTED reference to Tax Included Credits
+Promotion: 9163270797922059643 Successfully Updated
+Promotion object_id: 9163402281095963296 INSERTED reference to Tax Included Credits
+Promotion: 9163402281095963296 Successfully Updated
+Promotion object_id: 9163402281201963299 INSERTED reference to Tax Included Credits
+Promotion: 9163402281201963299 Successfully Updated
+Promotion object_id: 9163462538794819413 INSERTED reference to Tax Included Credits
+Promotion: 9163462538794819413 Successfully Updated
+Promotion object_id: 9163808321697015472 INSERTED reference to Tax Included Credits
+Promotion: 9163808321697015472 Successfully Updated
+Promotion object_id: 9163237254127648806 INSERTED reference to Tax Included Credits
+Promotion: 9163237254127648806 Successfully Updated
+Promotion object_id: 9159829207813575709 INSERTED reference to Tax Included Credits
+Promotion: 9159829207813575709 Tax Code Successfully Removed
+Promotion: 9159829207813575709 Successfully Updated
+Promotion object_id: 9163348252863699876 INSERTED reference to Tax Included Credits
+Promotion: 9163348252863699876 Successfully Updated
+Promotion object_id: 9163418075010203788 INSERTED reference to Tax Included Credits
+Promotion: 9163418075010203788 Successfully Updated
+Promotion object_id: 9161171393313681619 INSERTED reference to Tax Included Credits
+Promotion: 9161171393313681619 Tax Code Successfully Removed
+Promotion: 9161171393313681619 Successfully Updated
+Promotion object_id: 9161940775008976769 INSERTED reference to Tax Included Credits
+Promotion: 9161940775008976769 Successfully Updated
+Promotion object_id: 9162615558349256054 INSERTED reference to Tax Included Credits
+Promotion: 9162615558349256054 Successfully Updated
+Promotion object_id: 9164602806206174751 INSERTED reference to Tax Included Credits
+Promotion: 9164602806206174751 Successfully Updated
+Promotion object_id: 9163348207296699870 INSERTED reference to Tax Included Credits
+Promotion: 9163348207296699870 Successfully Updated
+Promotion object_id: 9163451617358819378 INSERTED reference to Tax Included Credits
+Promotion: 9163451617358819378 Successfully Updated
+Promotion object_id: 9163417900221137086 INSERTED reference to Tax Included Credits
+Promotion: 9163417900221137086 Successfully Updated
+Promotion object_id: 9163445038385709609 INSERTED reference to Tax Included Credits
+Promotion: 9163445038385709609 Successfully Updated
+Promotion object_id: 9161171432913738091 INSERTED reference to Tax Included Credits
+Promotion: 9161171432913738091 Tax Code Successfully Removed
+Promotion: 9161171432913738091 Successfully Updated
+Promotion object_id: 9162615511038739404 INSERTED reference to Tax Included Credits
+Promotion: 9162615511038739404 Successfully Updated
+Promotion object_id: 9163175430379812996 INSERTED reference to Tax Included Credits
+Promotion: 9163175430379812996 Successfully Updated
+Promotion object_id: 9163177787581646770 INSERTED reference to Tax Included Credits
+Promotion: 9163177787581646770 Successfully Updated
+Promotion object_id: 9163530483411203292 INSERTED reference to Tax Included Credits
+Promotion: 9163530483411203292 Successfully Updated
+Promotion object_id: 9162683653854158039 INSERTED reference to Tax Included Credits
+Promotion: 9162683653854158039 Successfully Updated
+Promotion object_id: 9162720101531155133 INSERTED reference to Tax Included Credits
+Promotion: 9162720101531155133 Successfully Updated
+Promotion object_id: 9162683676955158045 INSERTED reference to Tax Included Credits
+Promotion: 9162683676955158045 Successfully Updated
+Promotion object_id: 9162720037043786416 INSERTED reference to Tax Included Credits
+Promotion: 9162720037043786416 Successfully Updated
+Promotion object_id: 9164775724968235000 INSERTED reference to Tax Included Credits
+Promotion: 9164775724968235000 Successfully Updated
+Promotion object_id: 9164775821577235006 INSERTED reference to Tax Included Credits
+Promotion: 9164775821577235006 Successfully Updated
+Promotion object_id: 9164921245828890985 INSERTED reference to Tax Included Credits
+Promotion: 9164921245828890985 Successfully Updated
+Promotion object_id: 9164921610078890988 INSERTED reference to Tax Included Credits
+Promotion: 9164921610078890988 Successfully Updated
+Promotion object_id: 9164930482164320263 INSERTED reference to Tax Included Credits
+Promotion: 9164930482164320263 Successfully Updated
+Promotion object_id: 9164775776563693271 INSERTED reference to Tax Included Credits
+Promotion: 9164775776563693271 Successfully Updated
+Promotion object_id: 9164783275123235045 INSERTED reference to Tax Included Credits
+Promotion: 9164783275123235045 Successfully Updated
+Promotion object_id: 9164775845837693278 INSERTED reference to Tax Included Credits
+Promotion: 9164775845837693278 Successfully Updated
+Promotion object_id: 9164783314256855337 INSERTED reference to Tax Included Credits
+Promotion: 9164783314256855337 Successfully Updated
+Promotion object_id: 9164362361837181068 INSERTED reference to Tax Included Credits
+Promotion: 9164362361837181068 Successfully Updated
+Promotion object_id: 9163581772599231197 INSERTED reference to Tax Included Credits
+Promotion: 9163581772599231197 Successfully Updated
+Promotion object_id: 9163590958994744531 INSERTED reference to Tax Included Credits
+Promotion: 9163590958994744531 Successfully Updated
+Promotion object_id: 9162752730656155379 INSERTED reference to Tax Included Credits
+Promotion: 9162752730656155379 Successfully Updated
+Promotion object_id: 9159477479113115937 INSERTED reference to Tax Included Credits
+Promotion: 9159477479113115937 Tax Code Successfully Removed
+Promotion: 9159477479113115937 Successfully Updated
+Promotion object_id: 9159591399413748656 INSERTED reference to Tax Included Credits
+Promotion: 9159591399413748656 Successfully Updated
+Promotion object_id: 9159832790513019843 INSERTED reference to Tax Included Credits
+Promotion: 9159832790513019843 Tax Code Successfully Removed
+Promotion: 9159832790513019843 Successfully Updated
+Promotion object_id: 9162796105717685268 INSERTED reference to Tax Included Credits
+Promotion: 9162796105717685268 Successfully Updated
+Promotion object_id: 9164722552392653940 INSERTED reference to Tax Included Credits
+Promotion: 9164722552392653940 Successfully Updated
+Promotion object_id: 9163107787077578053 INSERTED reference to Tax Included Credits
+Promotion: 9163107787077578053 Successfully Updated
+Promotion object_id: 9163988515292886697 INSERTED reference to Tax Included Credits
+Promotion: 9163988515292886697 Successfully Updated
+Promotion object_id: 9164369984518181084 INSERTED reference to Tax Included Credits
+Promotion: 9164369984518181084 Successfully Updated
+Promotion object_id: 9164567972042675101 INSERTED reference to Tax Included Credits
+Promotion: 9164567972042675101 Successfully Updated
+Promotion object_id: 9164620325088317553 INSERTED reference to Tax Included Credits
+Promotion: 9164620325088317553 Successfully Updated
+Promotion object_id: 9164721614932777710 INSERTED reference to Tax Included Credits
+Promotion: 9164721614932777710 Successfully Updated
+Promotion object_id: 9164740067049234863 INSERTED reference to Tax Included Credits
+Promotion: 9164740067049234863 Successfully Updated
+Promotion object_id: 9164793065004693349 INSERTED reference to Tax Included Credits
+Promotion: 9164793065004693349 Successfully Updated
+Promotion object_id: 9163418785586203795 INSERTED reference to Tax Included Credits
+Promotion: 9163418785586203795 Successfully Updated
+Promotion object_id: 9163418785833203798 INSERTED reference to Tax Included Credits
+Promotion: 9163418785833203798 Successfully Updated
+Promotion object_id: 9163462567385807055 INSERTED reference to Tax Included Credits
+Promotion: 9163462567385807055 Successfully Updated
+Promotion object_id: 9163693615428824541 INSERTED reference to Tax Included Credits
+Promotion: 9163693615428824541 Successfully Updated
+Promotion object_id: 9163175368285625217 INSERTED reference to Tax Included Credits
+Promotion: 9163175368285625217 Successfully Updated
+Promotion object_id: 9163228488247813432 INSERTED reference to Tax Included Credits
+Promotion: 9163228488247813432 Successfully Updated
+Promotion object_id: 9163270943766059647 INSERTED reference to Tax Included Credits
+Promotion: 9163270943766059647 Successfully Updated
+Promotion object_id: 9164324940784180978 INSERTED reference to Tax Included Credits
+Promotion: 9164324940784180978 Successfully Updated
+Promotion object_id: 9164325826116967384 INSERTED reference to Tax Included Credits
+Promotion: 9164325826116967384 Successfully Updated
+Promotion object_id: 9164360046737967443 INSERTED reference to Tax Included Credits
+Promotion: 9164360046737967443 Successfully Updated
+Promotion object_id: 9163816686384015476 INSERTED reference to Tax Included Credits
+Promotion: 9163816686384015476 Successfully Updated
+Promotion object_id: 9159823307213567862 INSERTED reference to Tax Included Credits
+Promotion: 9159823307213567862 Tax Code Successfully Removed
+Promotion: 9159823307213567862 Successfully Updated
+Promotion object_id: 9159993754213042753 INSERTED reference to Tax Included Credits
+Promotion: 9159993754213042753 Tax Code Successfully Removed
+Promotion: 9159993754213042753 Successfully Updated
+Promotion object_id: 9159993789213044857 INSERTED reference to Tax Included Credits
+Promotion: 9159993789213044857 Tax Code Successfully Removed
+Promotion: 9159993789213044857 Successfully Updated
+Promotion object_id: 9163505371082201663 INSERTED reference to Tax Included Credits
+Promotion: 9163505371082201663 Successfully Updated
+Promotion object_id: 9163583252609231206 INSERTED reference to Tax Included Credits
+Promotion: 9163583252609231206 Successfully Updated
+Promotion object_id: 9163583299164231209 INSERTED reference to Tax Included Credits
+Promotion: 9163583299164231209 Successfully Updated
+Promotion object_id: 9163583299246231212 INSERTED reference to Tax Included Credits
+Promotion: 9163583299246231212 Successfully Updated
+Promotion object_id: 9163600763297744543 INSERTED reference to Tax Included Credits
+Promotion: 9163600763297744543 Successfully Updated
+Promotion object_id: 9163600793546187559 INSERTED reference to Tax Included Credits
+Promotion: 9163600793546187559 Successfully Updated
+Promotion object_id: 9163600793896187562 INSERTED reference to Tax Included Credits
+Promotion: 9163600793896187562 Successfully Updated
+Promotion object_id: 9164982564268303581 INSERTED reference to Tax Included Credits
+Promotion: 9164982564268303581 Successfully Updated
+Promotion object_id: 9162969962544409568 INSERTED reference to Tax Included Credits
+Promotion: 9162969962544409568 Successfully Updated
+Promotion object_id: 9162969962595409567 INSERTED reference to Tax Included Credits
+Promotion: 9162969962595409567 Successfully Updated
+Promotion object_id: 9163771656745970764 INSERTED reference to Tax Included Credits
+Promotion: 9163771656745970764 Successfully Updated
+Promotion object_id: 9163781665357970783 INSERTED reference to Tax Included Credits
+Promotion: 9163781665357970783 Successfully Updated
+Promotion object_id: 9164477618598151102 INSERTED reference to Tax Included Credits
+Promotion: 9164477618598151102 Successfully Updated
+Promotion object_id: 9163504726156807892 INSERTED reference to Tax Included Credits
+Promotion: 9163504726156807892 Successfully Updated
+Promotion object_id: 9163504775950201654 INSERTED reference to Tax Included Credits
+Promotion: 9163504775950201654 Successfully Updated
+Promotion object_id: 9163504887965201657 INSERTED reference to Tax Included Credits
+Promotion: 9163504887965201657 Successfully Updated
+Promotion object_id: 9164875464865407746 INSERTED reference to Tax Included Credits
+Promotion: 9164875464865407746 Successfully Updated
+Promotion object_id: 9153532200913330825 INSERTED reference to Tax Included Credits
+Promotion: 9153532200913330825 Successfully Updated
+Promotion object_id: 9153524866313325616 INSERTED reference to Tax Included Credits
+Promotion: 9153524866313325616 Successfully Updated
+Promotion object_id: 9161212296913214987 INSERTED reference to Tax Included Credits
+Promotion: 9161212296913214987 Successfully Updated
+Promotion object_id: 9162532466750187436 INSERTED reference to Tax Included Credits
+Promotion: 9162532466750187436 Successfully Updated
+Promotion object_id: 9153525772313326376 INSERTED reference to Tax Included Credits
+Promotion: 9153525772313326376 Successfully Updated
+Promotion object_id: 9161212499413215100 INSERTED reference to Tax Included Credits
+Promotion: 9161212499413215100 Successfully Updated
+Promotion object_id: 9162537215783187443 INSERTED reference to Tax Included Credits
+Promotion: 9162537215783187443 Successfully Updated
+Promotion object_id: 9153532270213330950 INSERTED reference to Tax Included Credits
+Promotion: 9153532270213330950 Successfully Updated
+Promotion object_id: 9153524378413320974 INSERTED reference to Tax Included Credits
+Promotion: 9153524378413320974 Successfully Updated
+Promotion object_id: 9156315709513090872 INSERTED reference to Tax Included Credits
+Promotion: 9156315709513090872 Successfully Updated
+Promotion object_id: 9156315715713090877 INSERTED reference to Tax Included Credits
+Promotion: 9156315715713090877 Successfully Updated
+Promotion object_id: 9157248770313218607 INSERTED reference to Tax Included Credits
+Promotion: 9157248770313218607 Successfully Updated
+Promotion object_id: 9160563092413315497 INSERTED reference to Tax Included Credits
+Promotion: 9160563092413315497 Tax Code Successfully Removed
+Promotion: 9160563092413315497 Successfully Updated
+Promotion object_id: 9158634870713145802 INSERTED reference to Tax Included Credits
+Promotion: 9158634870713145802 Tax Code Successfully Removed
+Promotion: 9158634870713145802 Successfully Updated
+Promotion object_id: 9155280244013041804 INSERTED reference to Tax Included Credits
+Promotion: 9155280244013041804 Tax Code Successfully Removed
+Promotion: 9155280244013041804 Successfully Updated
+Promotion object_id: 9156290391713061578 INSERTED reference to Tax Included Credits
+Promotion: 9156290391713061578 Successfully Updated
+Promotion object_id: 9155280244213041809 INSERTED reference to Tax Included Credits
+Promotion: 9155280244213041809 Tax Code Successfully Removed
+Promotion: 9155280244213041809 Successfully Updated
+Promotion object_id: 9155280244413041814 INSERTED reference to Tax Included Credits
+Promotion: 9155280244413041814 Tax Code Successfully Removed
+Promotion: 9155280244413041814 Successfully Updated
+Promotion object_id: 9164429210252923534 INSERTED reference to Tax Included Credits
+Promotion: 9164429210252923534 Successfully Updated
+Promotion object_id: 9164437426730923555 INSERTED reference to Tax Included Credits
+Promotion: 9164437426730923555 Successfully Updated
+Promotion object_id: 9163929252676886613 INSERTED reference to Tax Included Credits
+Promotion: 9163929252676886613 Successfully Updated
+Promotion object_id: 9163391732081709445 INSERTED reference to Tax Included Credits
+Promotion: 9163391732081709445 Successfully Updated
+Promotion object_id: 9163443598757709596 INSERTED reference to Tax Included Credits
+Promotion: 9163443598757709596 Successfully Updated
+Promotion object_id: 9163875886969970918 INSERTED reference to Tax Included Credits
+Promotion: 9163875886969970918 Successfully Updated
+Promotion object_id: 9163953676705690029 INSERTED reference to Tax Included Credits
+Promotion: 9163953676705690029 Successfully Updated
+Promotion object_id: 9164739673920693085 INSERTED reference to Tax Included Credits
+Promotion: 9164739673920693085 Successfully Updated
+Promotion object_id: 9164861402627650172 INSERTED reference to Tax Included Credits
+Promotion: 9164861402627650172 Successfully Updated
+Promotion object_id: 9164861997070650177 INSERTED reference to Tax Included Credits
+Promotion: 9164861997070650177 Successfully Updated
+Promotion object_id: 9164862017861457497 INSERTED reference to Tax Included Credits
+Promotion: 9164862017861457497 Successfully Updated
+Promotion object_id: 9164904688403650288 INSERTED reference to Tax Included Credits
+Promotion: 9164904688403650288 Successfully Updated
+Promotion object_id: 9164904642848457602 INSERTED reference to Tax Included Credits
+Promotion: 9164904642848457602 Successfully Updated
+Promotion object_id: 9164860583340650167 INSERTED reference to Tax Included Credits
+Promotion: 9164860583340650167 Successfully Updated
+Promotion object_id: 9163330446961707838 INSERTED reference to Tax Included Credits
+Promotion: 9163330446961707838 Successfully Updated
+Promotion object_id: 9164797656811258485 INSERTED reference to Tax Included Credits
+Promotion: 9164797656811258485 Successfully Updated
+Promotion object_id: 9163160815070325007 INSERTED reference to Tax Included Credits
+Promotion: 9163160815070325007 Successfully Updated
+Promotion object_id: 9163160944936084760 INSERTED reference to Tax Included Credits
+Promotion: 9163160944936084760 Successfully Updated
+Promotion object_id: 9163818020212232961 INSERTED reference to Tax Included Credits
+Promotion: 9163818020212232961 Successfully Updated
+Promotion object_id: 9163818706669970874 INSERTED reference to Tax Included Credits
+Promotion: 9163818706669970874 Successfully Updated
+Promotion object_id: 9164158215131562886 INSERTED reference to Tax Included Credits
+Promotion: 9164158215131562886 Successfully Updated
+Promotion object_id: 9164178632913446967 INSERTED reference to Tax Included Credits
+Promotion: 9164178632913446967 Successfully Updated
+Promotion object_id: 9164179066379450648 INSERTED reference to Tax Included Credits
+Promotion: 9164179066379450648 Successfully Updated
+Promotion object_id: 9162900263628724592 INSERTED reference to Tax Included Credits
+Promotion: 9162900263628724592 Successfully Updated
+Promotion object_id: 9162918871413281908 INSERTED reference to Tax Included Credits
+Promotion: 9162918871413281908 Successfully Updated
+Promotion object_id: 9162884629880724038 INSERTED reference to Tax Included Credits
+Promotion: 9162884629880724038 Successfully Updated
+Promotion object_id: 9162884655172226824 INSERTED reference to Tax Included Credits
+Promotion: 9162884655172226824 Successfully Updated
+Promotion object_id: 9164991515065891158 INSERTED reference to Tax Included Credits
+Promotion: 9164991515065891158 Successfully Updated
+Promotion object_id: 9160728892313905870 INSERTED reference to Tax Included Credits
+Promotion: 9160728892313905870 Successfully Updated
+Promotion object_id: 9163654406802622440 INSERTED reference to Tax Included Credits
+Promotion: 9163654406802622440 Successfully Updated
+Promotion object_id: 9163654413514622442 INSERTED reference to Tax Included Credits
+Promotion: 9163654413514622442 Successfully Updated
+Promotion object_id: 9163654428891622443 INSERTED reference to Tax Included Credits
+Promotion: 9163654428891622443 Successfully Updated
+Promotion object_id: 9163654422164645153 INSERTED reference to Tax Included Credits
+Promotion: 9163654422164645153 Successfully Updated
+Promotion object_id: 9163654371974622435 INSERTED reference to Tax Included Credits
+Promotion: 9163654371974622435 Successfully Updated
+Promotion object_id: 9163654361015622434 INSERTED reference to Tax Included Credits
+Promotion: 9163654361015622434 Successfully Updated
+Promotion object_id: 9163654347053645150 INSERTED reference to Tax Included Credits
+Promotion: 9163654347053645150 Successfully Updated
+Promotion object_id: 9163654326525622432 INSERTED reference to Tax Included Credits
+Promotion: 9163654326525622432 Successfully Updated
+Promotion object_id: 9163654390420622437 INSERTED reference to Tax Included Credits
+Promotion: 9163654390420622437 Successfully Updated
+Promotion object_id: 9163654398377622438 INSERTED reference to Tax Included Credits
+Promotion: 9163654398377622438 Successfully Updated
+Promotion object_id: 9164843929315407627 INSERTED reference to Tax Included Credits
+Promotion: 9164843929315407627 Successfully Updated
+Promotion object_id: 9164793046616693347 INSERTED reference to Tax Included Credits
+Promotion: 9164793046616693347 Successfully Updated
+Promotion object_id: 9164792985719693342 INSERTED reference to Tax Included Credits
+Promotion: 9164792985719693342 Successfully Updated
+Promotion object_id: 9164792993283693344 INSERTED reference to Tax Included Credits
+Promotion: 9164792993283693344 Successfully Updated
+Promotion object_id: 9159599900313819982 INSERTED reference to Tax Included Credits
+Promotion: 9159599900313819982 Tax Code Successfully Removed
+Promotion: 9159599900313819982 Successfully Updated
+Promotion object_id: 9159600003913820318 INSERTED reference to Tax Included Credits
+Promotion: 9159600003913820318 Tax Code Successfully Removed
+Promotion: 9159600003913820318 Successfully Updated
+Promotion object_id: 9159600232713820866 INSERTED reference to Tax Included Credits
+Promotion: 9159600232713820866 Tax Code Successfully Removed
+Promotion: 9159600232713820866 Successfully Updated
+Promotion object_id: 9159600431413822869 INSERTED reference to Tax Included Credits
+Promotion: 9159600431413822869 Tax Code Successfully Removed
+Promotion: 9159600431413822869 Successfully Updated
+Promotion object_id: 9159606108013847142 INSERTED reference to Tax Included Credits
+Promotion: 9159606108013847142 Tax Code Successfully Removed
+Promotion: 9159606108013847142 Successfully Updated
+Promotion object_id: 9160005336613179509 INSERTED reference to Tax Included Credits
+Promotion: 9160005336613179509 Tax Code Successfully Removed
+Promotion: 9160005336613179509 Successfully Updated
+Promotion object_id: 9160005338613179643 INSERTED reference to Tax Included Credits
+Promotion: 9160005338613179643 Tax Code Successfully Removed
+Promotion: 9160005338613179643 Successfully Updated
+Promotion object_id: 9160005339513179712 INSERTED reference to Tax Included Credits
+Promotion: 9160005339513179712 Successfully Updated
+Promotion object_id: 9160005340313179833 INSERTED reference to Tax Included Credits
+Promotion: 9160005340313179833 Successfully Updated
+Promotion object_id: 9160131976913290402 INSERTED reference to Tax Included Credits
+Promotion: 9160131976913290402 Tax Code Successfully Removed
+Promotion: 9160131976913290402 Successfully Updated
+Promotion object_id: 9160132066213290505 INSERTED reference to Tax Included Credits
+Promotion: 9160132066213290505 Tax Code Successfully Removed
+Promotion: 9160132066213290505 Successfully Updated
+Promotion object_id: 9160132136213290662 INSERTED reference to Tax Included Credits
+Promotion: 9160132136213290662 Tax Code Successfully Removed
+Promotion: 9160132136213290662 Successfully Updated
+Promotion object_id: 9159598116113792125 INSERTED reference to Tax Included Credits
+Promotion: 9159598116113792125 Successfully Updated
+Promotion object_id: 9159598242013794592 INSERTED reference to Tax Included Credits
+Promotion: 9159598242013794592 Successfully Updated
+Promotion object_id: 9159599900113819954 INSERTED reference to Tax Included Credits
+Promotion: 9159599900113819954 Successfully Updated
+Promotion object_id: 9159600003913820346 INSERTED reference to Tax Included Credits
+Promotion: 9159600003913820346 Successfully Updated
+Promotion object_id: 9159600232613820838 INSERTED reference to Tax Included Credits
+Promotion: 9159600232613820838 Successfully Updated
+Promotion object_id: 9159600431413822897 INSERTED reference to Tax Included Credits
+Promotion: 9159600431413822897 Successfully Updated
+Promotion object_id: 9159606108013847068 INSERTED reference to Tax Included Credits
+Promotion: 9159606108013847068 Successfully Updated
+Promotion object_id: 9160131828513290211 INSERTED reference to Tax Included Credits
+Promotion: 9160131828513290211 Successfully Updated
+Promotion object_id: 9160131976913290359 INSERTED reference to Tax Included Credits
+Promotion: 9160131976913290359 Successfully Updated
+Promotion object_id: 9160132066213290509 INSERTED reference to Tax Included Credits
+Promotion: 9160132066213290509 Successfully Updated
+Promotion object_id: 9160132136213290724 INSERTED reference to Tax Included Credits
+Promotion: 9160132136213290724 Successfully Updated
+Promotion object_id: 9159598116113792079 INSERTED reference to Tax Included Credits
+Promotion: 9159598116113792079 Successfully Updated
+Promotion object_id: 9159598242213794784 INSERTED reference to Tax Included Credits
+Promotion: 9159598242213794784 Successfully Updated
+Promotion object_id: 9159600003913820374 INSERTED reference to Tax Included Credits
+Promotion: 9159600003913820374 Successfully Updated
+Promotion object_id: 9159606107713847040 INSERTED reference to Tax Included Credits
+Promotion: 9159606107713847040 Successfully Updated
+Promotion object_id: 9160005338613179617 INSERTED reference to Tax Included Credits
+Promotion: 9160005338613179617 Successfully Updated
+Promotion object_id: 9160005340313179820 INSERTED reference to Tax Included Credits
+Promotion: 9160005340313179820 Successfully Updated
+Promotion object_id: 9160005341013179867 INSERTED reference to Tax Included Credits
+Promotion: 9160005341013179867 Successfully Updated
+Promotion object_id: 9160131828513290228 INSERTED reference to Tax Included Credits
+Promotion: 9160131828513290228 Successfully Updated
+Promotion object_id: 9160131976913290427 INSERTED reference to Tax Included Credits
+Promotion: 9160131976913290427 Successfully Updated
+Promotion object_id: 9160132136213290712 INSERTED reference to Tax Included Credits
+Promotion: 9160132136213290712 Successfully Updated
+Promotion object_id: 9164432620584732480 INSERTED reference to Tax Included Credits
+Promotion: 9164432620584732480 Successfully Updated
+Promotion object_id: 9159820245013566425 INSERTED reference to Tax Included Credits
+Promotion: 9159820245013566425 Successfully Updated
+Promotion object_id: 9159633598313566669 INSERTED reference to Tax Included Credits
+Promotion: 9159633598313566669 Successfully Updated
+Promotion object_id: 9159633598113566664 INSERTED reference to Tax Included Credits
+Promotion: 9159633598113566664 Successfully Updated
+Promotion object_id: 9159633598513566674 INSERTED reference to Tax Included Credits
+Promotion: 9159633598513566674 Successfully Updated
+Promotion object_id: 9163107318390081978 INSERTED reference to Tax Included Credits
+Promotion: 9163107318390081978 Successfully Updated
+Promotion object_id: 9164784723227855382 INSERTED reference to Tax Included Credits
+Promotion: 9164784723227855382 Successfully Updated
+Promotion object_id: 9164801664024279278 INSERTED reference to Tax Included Credits
+Promotion: 9164801664024279278 Successfully Updated
+Promotion object_id: 9164851736748457443 INSERTED reference to Tax Included Credits
+Promotion: 9164851736748457443 Successfully Updated
+Promotion object_id: 9164862633707457500 INSERTED reference to Tax Included Credits
+Promotion: 9164862633707457500 Successfully Updated
+Promotion object_id: 9160555335613311504 INSERTED reference to Tax Included Credits
+Promotion: 9160555335613311504 Successfully Updated
+Promotion object_id: 9160555403413311510 INSERTED reference to Tax Included Credits
+Promotion: 9160555403413311510 Successfully Updated
+Promotion object_id: 9160555547213311616 INSERTED reference to Tax Included Credits
+Promotion: 9160555547213311616 Successfully Updated
+Promotion object_id: 9156315694313090867 INSERTED reference to Tax Included Credits
+Promotion: 9156315694313090867 Successfully Updated
+Promotion object_id: 9155882804513436700 INSERTED reference to Tax Included Credits
+Promotion: 9155882804513436700 Successfully Updated
+Promotion object_id: 9155583252913200702 INSERTED reference to Tax Included Credits
+Promotion: 9155583252913200702 Tax Code Successfully Removed
+Promotion: 9155583252913200702 Successfully Updated
+Promotion object_id: 9155584490513201837 INSERTED reference to Tax Included Credits
+Promotion: 9155584490513201837 Tax Code Successfully Removed
+Promotion: 9155584490513201837 Successfully Updated
+Promotion object_id: 9155584511113202036 INSERTED reference to Tax Included Credits
+Promotion: 9155584511113202036 Tax Code Successfully Removed
+Promotion: 9155584511113202036 Successfully Updated
+Promotion object_id: 9155591508113210002 INSERTED reference to Tax Included Credits
+Promotion: 9155591508113210002 Tax Code Successfully Removed
+Promotion: 9155591508113210002 Successfully Updated
+Promotion object_id: 9155882804513436704 INSERTED reference to Tax Included Credits
+Promotion: 9155882804513436704 Successfully Updated
+Promotion object_id: 9155952154013995060 INSERTED reference to Tax Included Credits
+Promotion: 9155952154013995060 Successfully Updated
+Promotion object_id: 9156100635613171246 INSERTED reference to Tax Included Credits
+Promotion: 9156100635613171246 Successfully Updated
+Promotion object_id: 9155952154013994972 INSERTED reference to Tax Included Credits
+Promotion: 9155952154013994972 Successfully Updated
+Promotion object_id: 9150165500913181620 INSERTED reference to Tax Included Credits
+Promotion: 9150165500913181620 Successfully Updated
+Promotion object_id: 9150227659313137817 INSERTED reference to Tax Included Credits
+Promotion: 9150227659313137817 Successfully Updated
+Promotion object_id: 9150227866413137993 INSERTED reference to Tax Included Credits
+Promotion: 9150227866413137993 Successfully Updated
+Promotion object_id: 9150227877513138002 INSERTED reference to Tax Included Credits
+Promotion: 9150227877513138002 Successfully Updated
+Promotion object_id: 9150227883913138007 INSERTED reference to Tax Included Credits
+Promotion: 9150227883913138007 Successfully Updated
+Promotion object_id: 9150227883913138011 INSERTED reference to Tax Included Credits
+Promotion: 9150227883913138011 Successfully Updated
+Promotion object_id: 9150227889713138016 INSERTED reference to Tax Included Credits
+Promotion: 9150227889713138016 Successfully Updated
+Promotion object_id: 9150227889713138020 INSERTED reference to Tax Included Credits
+Promotion: 9150227889713138020 Successfully Updated
+Promotion object_id: 9150227889713138024 INSERTED reference to Tax Included Credits
+Promotion: 9150227889713138024 Successfully Updated
+Promotion object_id: 9150227889713138028 INSERTED reference to Tax Included Credits
+Promotion: 9150227889713138028 Successfully Updated
+Promotion object_id: 9150227889713138032 INSERTED reference to Tax Included Credits
+Promotion: 9150227889713138032 Successfully Updated
+Promotion object_id: 9150227889713138036 INSERTED reference to Tax Included Credits
+Promotion: 9150227889713138036 Successfully Updated
+Promotion object_id: 9150468568413165504 INSERTED reference to Tax Included Credits
+Promotion: 9150468568413165504 Successfully Updated
+Promotion object_id: 9150468754513165619 INSERTED reference to Tax Included Credits
+Promotion: 9150468754513165619 Successfully Updated
+Promotion object_id: 9150468943113165639 INSERTED reference to Tax Included Credits
+Promotion: 9150468943113165639 Successfully Updated
+Promotion object_id: 9150469133413165754 INSERTED reference to Tax Included Credits
+Promotion: 9150469133413165754 Successfully Updated
+Promotion object_id: 9150479623613177972 INSERTED reference to Tax Included Credits
+Promotion: 9150479623613177972 Successfully Updated
+Promotion object_id: 9150491012613183215 INSERTED reference to Tax Included Credits
+Promotion: 9150491012613183215 Successfully Updated
+Promotion object_id: 9150491034113183220 INSERTED reference to Tax Included Credits
+Promotion: 9150491034113183220 Successfully Updated
+Promotion object_id: 9150491046313183225 INSERTED reference to Tax Included Credits
+Promotion: 9150491046313183225 Successfully Updated
+Promotion object_id: 9150491055013183230 INSERTED reference to Tax Included Credits
+Promotion: 9150491055013183230 Successfully Updated
+Promotion object_id: 9150491066413183235 INSERTED reference to Tax Included Credits
+Promotion: 9150491066413183235 Successfully Updated
+Promotion object_id: 9150491077213183240 INSERTED reference to Tax Included Credits
+Promotion: 9150491077213183240 Successfully Updated
+Promotion object_id: 9150491086213183245 INSERTED reference to Tax Included Credits
+Promotion: 9150491086213183245 Successfully Updated
+Promotion object_id: 9150491096813183250 INSERTED reference to Tax Included Credits
+Promotion: 9150491096813183250 Successfully Updated
+Promotion object_id: 9150491107113183255 INSERTED reference to Tax Included Credits
+Promotion: 9150491107113183255 Successfully Updated
+Promotion object_id: 9150491118513183260 INSERTED reference to Tax Included Credits
+Promotion: 9150491118513183260 Successfully Updated
+Promotion object_id: 9150491129613183365 INSERTED reference to Tax Included Credits
+Promotion: 9150491129613183365 Successfully Updated
+Promotion object_id: 9150491138413183370 INSERTED reference to Tax Included Credits
+Promotion: 9150491138413183370 Successfully Updated
+Promotion object_id: 9150491146713183375 INSERTED reference to Tax Included Credits
+Promotion: 9150491146713183375 Successfully Updated
+Promotion object_id: 9150491154213183380 INSERTED reference to Tax Included Credits
+Promotion: 9150491154213183380 Successfully Updated
+Promotion object_id: 9150491164613183385 INSERTED reference to Tax Included Credits
+Promotion: 9150491164613183385 Successfully Updated
+Promotion object_id: 9150491172313183390 INSERTED reference to Tax Included Credits
+Promotion: 9150491172313183390 Successfully Updated
+Promotion object_id: 9150491238613183400 INSERTED reference to Tax Included Credits
+Promotion: 9150491238613183400 Successfully Updated
+Promotion object_id: 9150491271013183411 INSERTED reference to Tax Included Credits
+Promotion: 9150491271013183411 Successfully Updated
+Promotion object_id: 9150580933913199592 INSERTED reference to Tax Included Credits
+Promotion: 9150580933913199592 Successfully Updated
+Promotion object_id: 9150580990513199600 INSERTED reference to Tax Included Credits
+Promotion: 9150580990513199600 Successfully Updated
+Promotion object_id: 9150581119713199618 INSERTED reference to Tax Included Credits
+Promotion: 9150581119713199618 Successfully Updated
+Promotion object_id: 9150581292513199743 INSERTED reference to Tax Included Credits
+Promotion: 9150581292513199743 Successfully Updated
+Promotion object_id: 9150581334713199753 INSERTED reference to Tax Included Credits
+Promotion: 9150581334713199753 Successfully Updated
+Promotion object_id: 9150581389013199858 INSERTED reference to Tax Included Credits
+Promotion: 9150581389013199858 Successfully Updated
+Promotion object_id: 9150581784513199970 INSERTED reference to Tax Included Credits
+Promotion: 9150581784513199970 Successfully Updated
+Promotion object_id: 9150597643213199682 INSERTED reference to Tax Included Credits
+Promotion: 9150597643213199682 Successfully Updated
+Promotion object_id: 9150629626113217808 INSERTED reference to Tax Included Credits
+Promotion: 9150629626113217808 Successfully Updated
+Promotion object_id: 9150653105313246285 INSERTED reference to Tax Included Credits
+Promotion: 9150653105313246285 Successfully Updated
+Promotion object_id: 9150653112913246426 INSERTED reference to Tax Included Credits
+Promotion: 9150653112913246426 Successfully Updated
+Promotion object_id: 9150657332513250114 INSERTED reference to Tax Included Credits
+Promotion: 9150657332513250114 Successfully Updated
+Promotion object_id: 9150657344113250169 INSERTED reference to Tax Included Credits
+Promotion: 9150657344113250169 Successfully Updated
+Promotion object_id: 9150691368113385763 INSERTED reference to Tax Included Credits
+Promotion: 9150691368113385763 Successfully Updated
+Promotion object_id: 9150691736113387321 INSERTED reference to Tax Included Credits
+Promotion: 9150691736113387321 Successfully Updated
+Promotion object_id: 9150691977513387846 INSERTED reference to Tax Included Credits
+Promotion: 9150691977513387846 Successfully Updated
+Promotion object_id: 9150691993913387863 INSERTED reference to Tax Included Credits
+Promotion: 9150691993913387863 Successfully Updated
+Promotion object_id: 9150692230013388123 INSERTED reference to Tax Included Credits
+Promotion: 9150692230013388123 Successfully Updated
+Promotion object_id: 9150692241213388248 INSERTED reference to Tax Included Credits
+Promotion: 9150692241213388248 Successfully Updated
+Promotion object_id: 9150692260713388263 INSERTED reference to Tax Included Credits
+Promotion: 9150692260713388263 Successfully Updated
+Promotion object_id: 9150692270113388278 INSERTED reference to Tax Included Credits
+Promotion: 9150692270113388278 Successfully Updated
+Promotion object_id: 9150748086413689543 INSERTED reference to Tax Included Credits
+Promotion: 9150748086413689543 Successfully Updated
+Promotion object_id: 9150842360913480364 INSERTED reference to Tax Included Credits
+Promotion: 9150842360913480364 Successfully Updated
+Promotion object_id: 9150859068113491881 INSERTED reference to Tax Included Credits
+Promotion: 9150859068113491881 Successfully Updated
+Promotion object_id: 9150883296713508923 INSERTED reference to Tax Included Credits
+Promotion: 9150883296713508923 Successfully Updated
+Promotion object_id: 9150996223813502684 INSERTED reference to Tax Included Credits
+Promotion: 9150996223813502684 Successfully Updated
+Promotion object_id: 9151471263213316402 INSERTED reference to Tax Included Credits
+Promotion: 9151471263213316402 Successfully Updated
+Promotion object_id: 9151498492713354034 INSERTED reference to Tax Included Credits
+Promotion: 9151498492713354034 Successfully Updated
+Promotion object_id: 9151523992613376292 INSERTED reference to Tax Included Credits
+Promotion: 9151523992613376292 Successfully Updated
+Promotion object_id: 9151524611613377439 INSERTED reference to Tax Included Credits
+Promotion: 9151524611613377439 Successfully Updated
+Promotion object_id: 9151531282113382044 INSERTED reference to Tax Included Credits
+Promotion: 9151531282113382044 Successfully Updated
+Promotion object_id: 9151541282413400861 INSERTED reference to Tax Included Credits
+Promotion: 9151541282413400861 Successfully Updated
+Promotion object_id: 9151593769113899385 INSERTED reference to Tax Included Credits
+Promotion: 9151593769113899385 Successfully Updated
+Promotion object_id: 9151594034613899495 INSERTED reference to Tax Included Credits
+Promotion: 9151594034613899495 Successfully Updated
+Promotion object_id: 9151738753613653330 INSERTED reference to Tax Included Credits
+Promotion: 9151738753613653330 Successfully Updated
+Promotion object_id: 9151782494813699877 INSERTED reference to Tax Included Credits
+Promotion: 9151782494813699877 Successfully Updated
+Promotion object_id: 9151849254213207399 INSERTED reference to Tax Included Credits
+Promotion: 9151849254213207399 Successfully Updated
+Promotion object_id: 9151858580313217994 INSERTED reference to Tax Included Credits
+Promotion: 9151858580313217994 Successfully Updated
+Promotion object_id: 9151919141413284905 INSERTED reference to Tax Included Credits
+Promotion: 9151919141413284905 Successfully Updated
+Promotion object_id: 9151954376413313672 INSERTED reference to Tax Included Credits
+Promotion: 9151954376413313672 Successfully Updated
+Promotion object_id: 9152210814813354579 INSERTED reference to Tax Included Credits
+Promotion: 9152210814813354579 Successfully Updated
+Promotion object_id: 9152561820613040560 INSERTED reference to Tax Included Credits
+Promotion: 9152561820613040560 Successfully Updated
+Promotion object_id: 9152562042813041039 INSERTED reference to Tax Included Credits
+Promotion: 9152562042813041039 Successfully Updated
+Promotion object_id: 9152703597113140323 INSERTED reference to Tax Included Credits
+Promotion: 9152703597113140323 Successfully Updated
+Promotion object_id: 9152703633413141082 INSERTED reference to Tax Included Credits
+Promotion: 9152703633413141082 Successfully Updated
+Promotion object_id: 9152757945113639918 INSERTED reference to Tax Included Credits
+Promotion: 9152757945113639918 Successfully Updated
+Promotion object_id: 9152758008513640110 INSERTED reference to Tax Included Credits
+Promotion: 9152758008513640110 Successfully Updated
+Promotion object_id: 9152915045213768365 INSERTED reference to Tax Included Credits
+Promotion: 9152915045213768365 Successfully Updated
+Promotion object_id: 9152915333713768731 INSERTED reference to Tax Included Credits
+Promotion: 9152915333713768731 Successfully Updated
+Promotion object_id: 9152940697513788739 INSERTED reference to Tax Included Credits
+Promotion: 9152940697513788739 Successfully Updated
+Promotion object_id: 9153008998513871068 INSERTED reference to Tax Included Credits
+Promotion: 9153008998513871068 Successfully Updated
+Promotion object_id: 9153009502513871564 INSERTED reference to Tax Included Credits
+Promotion: 9153009502513871564 Successfully Updated
+Promotion object_id: 9153034575113892614 INSERTED reference to Tax Included Credits
+Promotion: 9153034575113892614 Successfully Updated
+Promotion object_id: 9153034575613892700 INSERTED reference to Tax Included Credits
+Promotion: 9153034575613892700 Successfully Updated
+Promotion object_id: 9153034680013893317 INSERTED reference to Tax Included Credits
+Promotion: 9153034680013893317 Successfully Updated
+Promotion object_id: 9153035016713893540 INSERTED reference to Tax Included Credits
+Promotion: 9153035016713893540 Successfully Updated
+Promotion object_id: 9153035660513896123 INSERTED reference to Tax Included Credits
+Promotion: 9153035660513896123 Successfully Updated
+Promotion object_id: 9153035678213896209 INSERTED reference to Tax Included Credits
+Promotion: 9153035678213896209 Successfully Updated
+Promotion object_id: 9153256381613859539 INSERTED reference to Tax Included Credits
+Promotion: 9153256381613859539 Successfully Updated
+Promotion object_id: 9153256727113860055 INSERTED reference to Tax Included Credits
+Promotion: 9153256727113860055 Successfully Updated
+Promotion object_id: 9153415572813981276 INSERTED reference to Tax Included Credits
+Promotion: 9153415572813981276 Successfully Updated
+Promotion object_id: 9153415739413981476 INSERTED reference to Tax Included Credits
+Promotion: 9153415739413981476 Successfully Updated
+Promotion object_id: 9153491493313304153 INSERTED reference to Tax Included Credits
+Promotion: 9153491493313304153 Successfully Updated
+Promotion object_id: 9153523767213320525 INSERTED reference to Tax Included Credits
+Promotion: 9153523767213320525 Successfully Updated
+Promotion object_id: 9153552995313151400 INSERTED reference to Tax Included Credits
+Promotion: 9153552995313151400 Successfully Updated
+Promotion object_id: 9153553057413151725 INSERTED reference to Tax Included Credits
+Promotion: 9153553057413151725 Successfully Updated
+Promotion object_id: 9153822878313680473 INSERTED reference to Tax Included Credits
+Promotion: 9153822878313680473 Successfully Updated
+Promotion object_id: 9154252582813817741 INSERTED reference to Tax Included Credits
+Promotion: 9154252582813817741 Successfully Updated
+Promotion object_id: 9154252740113817951 INSERTED reference to Tax Included Credits
+Promotion: 9154252740113817951 Successfully Updated
+Promotion object_id: 9154253096113818497 INSERTED reference to Tax Included Credits
+Promotion: 9154253096113818497 Successfully Updated
+Promotion object_id: 9154253222013818609 INSERTED reference to Tax Included Credits
+Promotion: 9154253222013818609 Successfully Updated
+Promotion object_id: 9154268662113836259 INSERTED reference to Tax Included Credits
+Promotion: 9154268662113836259 Successfully Updated
+Promotion object_id: 9154560597613899734 INSERTED reference to Tax Included Credits
+Promotion: 9154560597613899734 Successfully Updated
+Promotion object_id: 9154561822413903113 INSERTED reference to Tax Included Credits
+Promotion: 9154561822413903113 Successfully Updated
+Promotion object_id: 9154763583313438524 INSERTED reference to Tax Included Credits
+Promotion: 9154763583313438524 Successfully Updated
+Promotion object_id: 9154764355113439902 INSERTED reference to Tax Included Credits
+Promotion: 9154764355113439902 Successfully Updated
+Promotion object_id: 9155352401713907494 INSERTED reference to Tax Included Credits
+Promotion: 9155352401713907494 Successfully Updated
+Promotion object_id: 9155583015813200112 INSERTED reference to Tax Included Credits
+Promotion: 9155583015813200112 Successfully Updated
+Promotion object_id: 9155583023113200343 INSERTED reference to Tax Included Credits
+Promotion: 9155583023113200343 Successfully Updated
+Promotion object_id: 9155584490213201708 INSERTED reference to Tax Included Credits
+Promotion: 9155584490213201708 Successfully Updated
+Promotion object_id: 9155584511013201948 INSERTED reference to Tax Included Credits
+Promotion: 9155584511013201948 Successfully Updated
+Promotion object_id: 9155606191313387846 INSERTED reference to Tax Included Credits
+Promotion: 9155606191313387846 Successfully Updated
+Promotion object_id: 9155607456013390714 INSERTED reference to Tax Included Credits
+Promotion: 9155607456013390714 Successfully Updated
+Promotion object_id: 9155711086513468230 INSERTED reference to Tax Included Credits
+Promotion: 9155711086513468230 Successfully Updated
+Promotion object_id: 9155711146713468681 INSERTED reference to Tax Included Credits
+Promotion: 9155711146713468681 Successfully Updated
+Promotion object_id: 9155726628413478631 INSERTED reference to Tax Included Credits
+Promotion: 9155726628413478631 Successfully Updated
+Promotion object_id: 9155726667913478783 INSERTED reference to Tax Included Credits
+Promotion: 9155726667913478783 Successfully Updated
+Promotion object_id: 9155728708613482189 INSERTED reference to Tax Included Credits
+Promotion: 9155728708613482189 Successfully Updated
+Promotion object_id: 9155761674813898224 INSERTED reference to Tax Included Credits
+Promotion: 9155761674813898224 Successfully Updated
+Promotion object_id: 9155777997513910803 INSERTED reference to Tax Included Credits
+Promotion: 9155777997513910803 Successfully Updated
+Promotion object_id: 9155882804513436545 INSERTED reference to Tax Included Credits
+Promotion: 9155882804513436545 Successfully Updated
+Promotion object_id: 9155945582613488440 INSERTED reference to Tax Included Credits
+Promotion: 9155945582613488440 Successfully Updated
+Promotion object_id: 9155952154013995038 INSERTED reference to Tax Included Credits
+Promotion: 9155952154013995038 Successfully Updated
+Promotion object_id: 9156100635613171218 INSERTED reference to Tax Included Credits
+Promotion: 9156100635613171218 Successfully Updated
+Promotion object_id: 9156255393813993030 INSERTED reference to Tax Included Credits
+Promotion: 9156255393813993030 Successfully Updated
+Promotion object_id: 9156297445013064914 INSERTED reference to Tax Included Credits
+Promotion: 9156297445013064914 Successfully Updated
+Promotion object_id: 9156299503913068903 INSERTED reference to Tax Included Credits
+Promotion: 9156299503913068903 Successfully Updated
+Promotion object_id: 9156373419813070841 INSERTED reference to Tax Included Credits
+Promotion: 9156373419813070841 Successfully Updated
+Promotion object_id: 9156377023113145624 INSERTED reference to Tax Included Credits
+Promotion: 9156377023113145624 Successfully Updated
+Promotion object_id: 9156379487413076108 INSERTED reference to Tax Included Credits
+Promotion: 9156379487413076108 Successfully Updated
+Promotion object_id: 9156379697613076255 INSERTED reference to Tax Included Credits
+Promotion: 9156379697613076255 Successfully Updated
+Promotion object_id: 9156379764113076459 INSERTED reference to Tax Included Credits
+Promotion: 9156379764113076459 Successfully Updated
+Promotion object_id: 9156392952813162014 INSERTED reference to Tax Included Credits
+Promotion: 9156392952813162014 Successfully Updated
+Promotion object_id: 9156557631913300414 INSERTED reference to Tax Included Credits
+Promotion: 9156557631913300414 Successfully Updated
+Promotion object_id: 9156631565013666830 INSERTED reference to Tax Included Credits
+Promotion: 9156631565013666830 Successfully Updated
+Promotion object_id: 9156631886013667044 INSERTED reference to Tax Included Credits
+Promotion: 9156631886013667044 Successfully Updated
+Promotion object_id: 9156632120913667268 INSERTED reference to Tax Included Credits
+Promotion: 9156632120913667268 Successfully Updated
+Promotion object_id: 9156632836713668087 INSERTED reference to Tax Included Credits
+Promotion: 9156632836713668087 Successfully Updated
+Promotion object_id: 9156687060213451655 INSERTED reference to Tax Included Credits
+Promotion: 9156687060213451655 Successfully Updated
+Promotion object_id: 9156703875013461914 INSERTED reference to Tax Included Credits
+Promotion: 9156703875013461914 Successfully Updated
+Promotion object_id: 9157576503113103562 INSERTED reference to Tax Included Credits
+Promotion: 9157576503113103562 Successfully Updated
+Promotion object_id: 9157585028413112522 INSERTED reference to Tax Included Credits
+Promotion: 9157585028413112522 Successfully Updated
+Promotion object_id: 9157593175613121214 INSERTED reference to Tax Included Credits
+Promotion: 9157593175613121214 Successfully Updated
+Promotion object_id: 9157594372113125586 INSERTED reference to Tax Included Credits
+Promotion: 9157594372113125586 Successfully Updated
+Promotion object_id: 9158022341013027055 INSERTED reference to Tax Included Credits
+Promotion: 9158022341013027055 Successfully Updated
+Promotion object_id: 9158022910713027447 INSERTED reference to Tax Included Credits
+Promotion: 9158022910713027447 Successfully Updated
+Promotion object_id: 9158024255213028883 INSERTED reference to Tax Included Credits
+Promotion: 9158024255213028883 Successfully Updated
+Promotion object_id: 9158024672213029229 INSERTED reference to Tax Included Credits
+Promotion: 9158024672213029229 Successfully Updated
+Promotion object_id: 9158205992313673855 INSERTED reference to Tax Included Credits
+Promotion: 9158205992313673855 Successfully Updated
+Promotion object_id: 9158665922613039085 INSERTED reference to Tax Included Credits
+Promotion: 9158665922613039085 Successfully Updated
+Promotion object_id: 9158678253413045099 INSERTED reference to Tax Included Credits
+Promotion: 9158678253413045099 Successfully Updated
+Promotion object_id: 9158678369213045136 INSERTED reference to Tax Included Credits
+Promotion: 9158678369213045136 Successfully Updated
+Promotion object_id: 9158678710413045471 INSERTED reference to Tax Included Credits
+Promotion: 9158678710413045471 Successfully Updated
+Promotion object_id: 9158678872313045735 INSERTED reference to Tax Included Credits
+Promotion: 9158678872313045735 Successfully Updated
+Promotion object_id: 9158679202013046006 INSERTED reference to Tax Included Credits
+Promotion: 9158679202013046006 Successfully Updated
+Promotion object_id: 9158679289613046268 INSERTED reference to Tax Included Credits
+Promotion: 9158679289613046268 Successfully Updated
+Promotion object_id: 9158679368713046380 INSERTED reference to Tax Included Credits
+Promotion: 9158679368713046380 Successfully Updated
+Promotion object_id: 9158679520113046617 INSERTED reference to Tax Included Credits
+Promotion: 9158679520113046617 Successfully Updated
+Promotion object_id: 9158920855113764760 INSERTED reference to Tax Included Credits
+Promotion: 9158920855113764760 Successfully Updated
+Promotion object_id: 9159333657713146360 INSERTED reference to Tax Included Credits
+Promotion: 9159333657713146360 Successfully Updated
+Promotion object_id: 9160004396413177343 INSERTED reference to Tax Included Credits
+Promotion: 9160004396413177343 Successfully Updated
+Promotion object_id: 9160481231813744826 INSERTED reference to Tax Included Credits
+Promotion: 9160481231813744826 Successfully Updated
+Promotion object_id: 9160489138513753314 INSERTED reference to Tax Included Credits
+Promotion: 9160489138513753314 Successfully Updated
+Promotion object_id: 9160756980013921835 INSERTED reference to Tax Included Credits
+Promotion: 9160756980013921835 Successfully Updated
+Promotion object_id: 9160757696113960893 INSERTED reference to Tax Included Credits
+Promotion: 9160757696113960893 Successfully Updated
+Promotion object_id: 9160778640613971882 INSERTED reference to Tax Included Credits
+Promotion: 9160778640613971882 Successfully Updated
+Promotion object_id: 9160778640613972032 INSERTED reference to Tax Included Credits
+Promotion: 9160778640613972032 Successfully Updated
+Promotion object_id: 9160778640613972183 INSERTED reference to Tax Included Credits
+Promotion: 9160778640613972183 Successfully Updated
+Promotion object_id: 9160778640613972340 INSERTED reference to Tax Included Credits
+Promotion: 9160778640613972340 Successfully Updated
+Promotion object_id: 9160778640713972741 INSERTED reference to Tax Included Credits
+Promotion: 9160778640713972741 Successfully Updated
+Promotion object_id: 9160783152413937285 INSERTED reference to Tax Included Credits
+Promotion: 9160783152413937285 Successfully Updated
+Promotion object_id: 9160783681513938034 INSERTED reference to Tax Included Credits
+Promotion: 9160783681513938034 Successfully Updated
+Promotion object_id: 9160783800613938254 INSERTED reference to Tax Included Credits
+Promotion: 9160783800613938254 Successfully Updated
+Promotion object_id: 9160783963513938658 INSERTED reference to Tax Included Credits
+Promotion: 9160783963513938658 Successfully Updated
+Promotion object_id: 9160790936213983318 INSERTED reference to Tax Included Credits
+Promotion: 9160790936213983318 Successfully Updated
+Promotion object_id: 9160794410513986950 INSERTED reference to Tax Included Credits
+Promotion: 9160794410513986950 Successfully Updated
+Promotion object_id: 9160794991713988494 INSERTED reference to Tax Included Credits
+Promotion: 9160794991713988494 Successfully Updated
+Promotion object_id: 9160795080613988672 INSERTED reference to Tax Included Credits
+Promotion: 9160795080613988672 Successfully Updated
+Promotion object_id: 9160795421013988942 INSERTED reference to Tax Included Credits
+Promotion: 9160795421013988942 Successfully Updated
+Promotion object_id: 9160817582413009448 INSERTED reference to Tax Included Credits
+Promotion: 9160817582413009448 Successfully Updated
+Promotion object_id: 9160841335813024135 INSERTED reference to Tax Included Credits
+Promotion: 9160841335813024135 Successfully Updated
+Promotion object_id: 9160841354113024242 INSERTED reference to Tax Included Credits
+Promotion: 9160841354113024242 Successfully Updated
+Promotion object_id: 9160842710413025868 INSERTED reference to Tax Included Credits
+Promotion: 9160842710413025868 Successfully Updated
+Promotion object_id: 9161326735313818009 INSERTED reference to Tax Included Credits
+Promotion: 9161326735313818009 Successfully Updated
+Promotion object_id: 9161405354213871936 INSERTED reference to Tax Included Credits
+Promotion: 9161405354213871936 Successfully Updated
+Promotion object_id: 9161939749713013049 INSERTED reference to Tax Included Credits
+Promotion: 9161939749713013049 Successfully Updated
+Promotion object_id: 9161940047213013867 INSERTED reference to Tax Included Credits
+Promotion: 9161940047213013867 Successfully Updated
+Promotion object_id: 9161940163113014305 INSERTED reference to Tax Included Credits
+Promotion: 9161940163113014305 Successfully Updated
+Promotion object_id: 9161940240813014780 INSERTED reference to Tax Included Credits
+Promotion: 9161940240813014780 Successfully Updated
+Promotion object_id: 9161940915813017165 INSERTED reference to Tax Included Credits
+Promotion: 9161940915813017165 Successfully Updated
+Promotion object_id: 9161942150113022881 INSERTED reference to Tax Included Credits
+Promotion: 9161942150113022881 Successfully Updated
+Promotion object_id: 9163030331105415128 INSERTED reference to Tax Included Credits
+Promotion: 9163030331105415128 Successfully Updated
+Promotion object_id: 9163030499140653773 INSERTED reference to Tax Included Credits
+Promotion: 9163030499140653773 Successfully Updated
+Promotion object_id: 9163031513028653788 INSERTED reference to Tax Included Credits
+Promotion: 9163031513028653788 Successfully Updated
+Promotion object_id: 9163031696206769062 INSERTED reference to Tax Included Credits
+Promotion: 9163031696206769062 Successfully Updated
+Promotion object_id: 9163037084307653795 INSERTED reference to Tax Included Credits
+Promotion: 9163037084307653795 Successfully Updated
+Promotion object_id: 9163124708344084645 INSERTED reference to Tax Included Credits
+Promotion: 9163124708344084645 Successfully Updated
+Promotion object_id: 9163135260441151686 INSERTED reference to Tax Included Credits
+Promotion: 9163135260441151686 Successfully Updated
+Promotion object_id: 9163135403091084657 INSERTED reference to Tax Included Credits
+Promotion: 9163135403091084657 Successfully Updated
+Promotion object_id: 9163135526652061346 INSERTED reference to Tax Included Credits
+Promotion: 9163135526652061346 Successfully Updated
+Promotion object_id: 9163135659101061360 INSERTED reference to Tax Included Credits
+Promotion: 9163135659101061360 Successfully Updated
+Promotion object_id: 9163144229460151704 INSERTED reference to Tax Included Credits
+Promotion: 9163144229460151704 Successfully Updated
+Promotion object_id: 9163144803221151715 INSERTED reference to Tax Included Credits
+Promotion: 9163144803221151715 Successfully Updated
+Promotion object_id: 9163279587472626356 INSERTED reference to Tax Included Credits
+Promotion: 9163279587472626356 Successfully Updated
+Promotion object_id: 9163340867998962488 INSERTED reference to Tax Included Credits
+Promotion: 9163340867998962488 Successfully Updated
+Promotion object_id: 9164245825262427609 INSERTED reference to Tax Included Credits
+Promotion: 9164245825262427609 Successfully Updated
+Promotion object_id: 9164391651805492557 INSERTED reference to Tax Included Credits
+Promotion: 9164391651805492557 Successfully Updated
+Promotion object_id: 9164427780355732455 INSERTED reference to Tax Included Credits
+Promotion: 9164427780355732455 Successfully Updated
+Promotion object_id: 9164433639746595587 INSERTED reference to Tax Included Credits
+Promotion: 9164433639746595587 Successfully Updated
+Promotion object_id: 9164477647489685616 INSERTED reference to Tax Included Credits
+Promotion: 9164477647489685616 Successfully Updated
+Promotion object_id: 9164797762492279241 INSERTED reference to Tax Included Credits
+Promotion: 9164797762492279241 Successfully Updated
+Promotion object_id: 9164921245738303446 INSERTED reference to Tax Included Credits
+Promotion: 9164921245738303446 Successfully Updated
+Promotion object_id: 9164921609742303449 INSERTED reference to Tax Included Credits
+Promotion: 9164921609742303449 Successfully Updated
+Promotion object_id: 9164930481832891008 INSERTED reference to Tax Included Credits
+Promotion: 9164930481832891008 Successfully Updated
+Promotion object_id: 9164964299686303505 INSERTED reference to Tax Included Credits
+Promotion: 9164964299686303505 Successfully Updated
+Promotion object_id: 9163650617215824463 INSERTED reference to Tax Included Credits
+Promotion: 9163650617215824463 Successfully Updated
+Promotion object_id: 9163651356941824466 INSERTED reference to Tax Included Credits
+Promotion: 9163651356941824466 Successfully Updated
+Promotion object_id: 9150228061313138077 INSERTED reference to Tax Included Credits
+Promotion: 9150228061313138077 Successfully Updated
+Promotion object_id: 9150228061313138081 INSERTED reference to Tax Included Credits
+Promotion: 9150228061313138081 Successfully Updated
+Promotion object_id: 9163530164804808684 INSERTED reference to Tax Included Credits
+Promotion: 9163530164804808684 Successfully Updated
+Promotion object_id: 9163391832183517373 INSERTED reference to Tax Included Credits
+Promotion: 9163391832183517373 Successfully Updated
+Promotion object_id: 9163575248523350216 INSERTED reference to Tax Included Credits
+Promotion: 9163575248523350216 Successfully Updated
+Promotion object_id: 9164687819225619719 INSERTED reference to Tax Included Credits
+Promotion: 9164687819225619719 Successfully Updated
+Promotion object_id: 9164714996125653916 INSERTED reference to Tax Included Credits
+Promotion: 9164714996125653916 Successfully Updated
+Promotion object_id: 9164732464740653985 INSERTED reference to Tax Included Credits
+Promotion: 9164732464740653985 Successfully Updated
+Promotion object_id: 9164845131032650101 INSERTED reference to Tax Included Credits
+Promotion: 9164845131032650101 Successfully Updated
+Promotion object_id: 9163106686052578035 INSERTED reference to Tax Included Credits
+Promotion: 9163106686052578035 Successfully Updated
+Promotion object_id: 9163106709330081965 INSERTED reference to Tax Included Credits
+Promotion: 9163106709330081965 Successfully Updated
+Promotion object_id: 9164681263436203640 INSERTED reference to Tax Included Credits
+Promotion: 9164681263436203640 Successfully Updated
+Promotion object_id: 9164930447491891002 INSERTED reference to Tax Included Credits
+Promotion: 9164930447491891002 Successfully Updated
+Promotion object_id: 9163160896328151744 INSERTED reference to Tax Included Credits
+Promotion: 9163160896328151744 Successfully Updated
+Promotion object_id: 9163160928915084756 INSERTED reference to Tax Included Credits
+Promotion: 9163160928915084756 Successfully Updated
+Promotion object_id: 9164239218576077245 INSERTED reference to Tax Included Credits
+Promotion: 9164239218576077245 Successfully Updated
+Promotion object_id: 9163418195457203791 INSERTED reference to Tax Included Credits
+Promotion: 9163418195457203791 Successfully Updated
+Promotion object_id: 9163444995750000385 INSERTED reference to Tax Included Credits
+Promotion: 9163444995750000385 Successfully Updated
+Promotion object_id: 9161733520972268654 INSERTED reference to Tax Included Credits
+Promotion: 9161733520972268654 Successfully Updated
+Promotion object_id: 9161011304513573902 INSERTED reference to Tax Included Credits
+Promotion: 9161011304513573902 Tax Code Successfully Removed
+Promotion: 9161011304513573902 Successfully Updated
+Promotion object_id: 9164793039242235072 INSERTED reference to Tax Included Credits
+Promotion: 9164793039242235072 Successfully Updated
+Promotion object_id: 9160675422213633905 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED
+Promotion object_id: 9160675273713633376 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED
+Promotion object_id: 9164800303681882392 INSERTED reference to Tax Included Credits
+Promotion: 9164800303681882392 Successfully Updated
+Promotion object_id: 9152222267113216942 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216942 Successfully Updated
+Promotion object_id: 9152222267113216946 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216946 Successfully Updated
+Promotion object_id: 9152222267113216950 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216950 Successfully Updated
+Promotion object_id: 9152222267113216954 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216954 Successfully Updated
+Promotion object_id: 9152222267113216958 INSERTED reference to Tax Included Credits
+Promotion: 9152222267113216958 Successfully Updated
+Promotion object_id: 9152222433213217118 INSERTED reference to Tax Included Credits
+Promotion: 9152222433213217118 Successfully Updated
+Promotion object_id: 9152222433213217122 INSERTED reference to Tax Included Credits
+Promotion: 9152222433213217122 Successfully Updated
+Promotion object_id: 9153470399813288002 INSERTED reference to Tax Included Credits
+Promotion: 9153470399813288002 Successfully Updated
+Promotion object_id: 9153470324313287892 INSERTED reference to Tax Included Credits
+Promotion: 9153470324313287892 Successfully Updated
+Promotion object_id: 9156379487513076196 INSERTED reference to Tax Included Credits
+Promotion: 9156379487513076196 Tax Code Successfully Removed
+Promotion: 9156379487513076196 Successfully Updated
+Promotion object_id: 9156379764213076547 INSERTED reference to Tax Included Credits
+Promotion: 9156379764213076547 Tax Code Successfully Removed
+Promotion: 9156379764213076547 Successfully Updated
+Promotion object_id: 9150995295613501798 INSERTED reference to Tax Included Credits
+Promotion: 9150995295613501798 Successfully Updated
+Promotion object_id: 9151228215313652321 INSERTED reference to Tax Included Credits
+Promotion: 9151228215313652321 Successfully Updated
+Promotion object_id: 9160749291613917445 INSERTED reference to Tax Included Credits
+Promotion: 9160749291613917445 Successfully Updated
+Promotion object_id: 9162796246682662086 INSERTED reference to Tax Included Credits
+Promotion: 9162796246682662086 Tax Code Successfully Removed
+Promotion: 9162796246682662086 Successfully Updated
+Promotion object_id: 9164362304922967455 INSERTED reference to Tax Included Credits
+Promotion: 9164362304922967455 Successfully Updated
+Promotion object_id: 9163283967813870394 INSERTED reference to Tax Included Credits
+Promotion: 9163283967813870394 Successfully Updated
+Promotion object_id: 9164388130406181115 INSERTED reference to Tax Included Credits
+Promotion: 9164388130406181115 Successfully Updated
+Promotion object_id: 9164412658495317715 INSERTED reference to Tax Included Credits
+Promotion: 9164412658495317715 Successfully Updated
+Promotion object_id: 9164411344461317693 INSERTED reference to Tax Included Credits
+Promotion: 9164411344461317693 Successfully Updated
+Promotion object_id: 9164750775440693196 INSERTED reference to Tax Included Credits
+Promotion: 9164750775440693196 Successfully Updated
+Promotion object_id: 9164420300312595485 INSERTED reference to Tax Included Credits
+Promotion: 9164420300312595485 Successfully Updated
+Promotion object_id: 9164479990385685637 INSERTED reference to Tax Included Credits
+Promotion: 9164479990385685637 Successfully Updated
+Promotion object_id: 9164724441074653954 INSERTED reference to Tax Included Credits
+Promotion: 9164724441074653954 Successfully Updated
+Promotion object_id: 9164420019025595483 INSERTED reference to Tax Included Credits
+Promotion: 9164420019025595483 Successfully Updated
+Promotion object_id: 9164480401995685640 INSERTED reference to Tax Included Credits
+Promotion: 9164480401995685640 Successfully Updated
+Promotion object_id: 9161299928737665398 INSERTED reference to Tax Included Credits
+Promotion: 9161299928737665398 Successfully Updated
+Promotion object_id: 9162796320219108568 INSERTED reference to Tax Included Credits
+Promotion: 9162796320219108568 Successfully Updated
+Promotion object_id: 9164776245729235015 INSERTED reference to Tax Included Credits
+Promotion: 9164776245729235015 Successfully Updated
+Promotion object_id: 9164775623582855279 INSERTED reference to Tax Included Credits
+Promotion: 9164775623582855279 Successfully Updated
+Promotion object_id: 9164777176642235035 INSERTED reference to Tax Included Credits
+Promotion: 9164777176642235035 Successfully Updated
+Promotion object_id: 9162860975488813664 INSERTED reference to Tax Included Credits
+Promotion: 9162860975488813664 Successfully Updated
+Promotion object_id: 9164776545159693290 INSERTED reference to Tax Included Credits
+Promotion: 9164776545159693290 Successfully Updated
+Promotion object_id: 9164782618281693310 INSERTED reference to Tax Included Credits
+Promotion: 9164782618281693310 Successfully Updated
+Promotion object_id: 9154331122213968764 INSERTED reference to Tax Included Credits
+Promotion: 9154331122213968764 Successfully Updated
+Promotion object_id: 9164411083891317690 INSERTED reference to Tax Included Credits
+Promotion: 9164411083891317690 Successfully Updated
+Promotion object_id: 9164421563967329072 INSERTED reference to Tax Included Credits
+Promotion: 9164421563967329072 Successfully Updated
+Promotion object_id: 9164424538817732410 INSERTED reference to Tax Included Credits
+Promotion: 9164424538817732410 Successfully Updated
+Promotion object_id: 9164473594655732515 INSERTED reference to Tax Included Credits
+Promotion: 9164473594655732515 Successfully Updated
+Promotion object_id: 9164480740197685642 INSERTED reference to Tax Included Credits
+Promotion: 9164480740197685642 Successfully Updated
+Promotion object_id: 9164724793808653956 INSERTED reference to Tax Included Credits
+Promotion: 9164724793808653956 Successfully Updated
+Promotion object_id: 9164750877368855173 INSERTED reference to Tax Included Credits
+Promotion: 9164750877368855173 Successfully Updated
+Promotion object_id: 9164776996817855305 INSERTED reference to Tax Included Credits
+Promotion: 9164776996817855305 Successfully Updated
+Promotion object_id: 9164777105567855308 INSERTED reference to Tax Included Credits
+Promotion: 9164777105567855308 Successfully Updated
+Promotion object_id: 9164777152779235032 INSERTED reference to Tax Included Credits
+Promotion: 9164777152779235032 Successfully Updated
+Promotion object_id: 9161395913999156675 INSERTED reference to Tax Included Credits
+Promotion: 9161395913999156675 Successfully Updated
+Promotion object_id: 9161396668136156681 INSERTED reference to Tax Included Credits
+Promotion: 9161396668136156681 Successfully Updated
+Promotion object_id: 9161396971893156688 INSERTED reference to Tax Included Credits
+Promotion: 9161396971893156688 Successfully Updated
+Promotion object_id: 9163636623480824402 INSERTED reference to Tax Included Credits
+Promotion: 9163636623480824402 Successfully Updated
+Promotion object_id: 9162961378188222564 INSERTED reference to Tax Included Credits
+Promotion: 9162961378188222564 Successfully Updated
+Promotion object_id: 9161299922839665397 INSERTED reference to Tax Included Credits
+Promotion: 9161299922839665397 Successfully Updated
+Promotion object_id: 9162484784853804579 INSERTED reference to Tax Included Credits
+Promotion: 9162484784853804579 Successfully Updated
+Promotion object_id: 9162484770396380083 INSERTED reference to Tax Included Credits
+Promotion: 9162484770396380083 Successfully Updated
+Promotion object_id: 9162484767726380080 INSERTED reference to Tax Included Credits
+Promotion: 9162484767726380080 Successfully Updated
+Promotion object_id: 9162484786136804580 INSERTED reference to Tax Included Credits
+Promotion: 9162484786136804580 Successfully Updated
+Promotion object_id: 9162484765768380079 INSERTED reference to Tax Included Credits
+Promotion: 9162484765768380079 Successfully Updated
+Promotion object_id: 9162485610282737048 INSERTED reference to Tax Included Credits
+Promotion: 9162485610282737048 Successfully Updated
+Promotion object_id: 9162166160773176493 INSERTED reference to Tax Included Credits
+Promotion: 9162166160773176493 Successfully Updated
+Promotion object_id: 9162166219397524032 INSERTED reference to Tax Included Credits
+Promotion: 9162166219397524032 Successfully Updated
+Promotion object_id: 9162166278477524033 INSERTED reference to Tax Included Credits
+Promotion: 9162166278477524033 Successfully Updated
+Promotion object_id: 9162166358734604418 INSERTED reference to Tax Included Credits
+Promotion: 9162166358734604418 Successfully Updated
+Promotion object_id: 9162171155487176498 INSERTED reference to Tax Included Credits
+Promotion: 9162171155487176498 Successfully Updated
+Promotion object_id: 9162171006152176497 INSERTED reference to Tax Included Credits
+Promotion: 9162171006152176497 Successfully Updated
+Promotion object_id: 9162170888545524038 INSERTED reference to Tax Included Credits
+Promotion: 9162170888545524038 Successfully Updated
+Promotion object_id: 9162128406697523965 INSERTED reference to Tax Included Credits
+Promotion: 9162128406697523965 Successfully Updated
+Promotion object_id: 9162170792835604419 INSERTED reference to Tax Included Credits
+Promotion: 9162170792835604419 Successfully Updated
+Promotion object_id: 9162171215088604421 INSERTED reference to Tax Included Credits
+Promotion: 9162171215088604421 Successfully Updated
+Promotion object_id: 9162171636430176500 INSERTED reference to Tax Included Credits
+Promotion: 9162171636430176500 Successfully Updated
+Promotion object_id: 9162172139353604423 INSERTED reference to Tax Included Credits
+Promotion: 9162172139353604423 Successfully Updated
+Promotion object_id: 9162172161122176501 INSERTED reference to Tax Included Credits
+Promotion: 9162172161122176501 Successfully Updated
+Promotion object_id: 9162173149865604424 INSERTED reference to Tax Included Credits
+Promotion: 9162173149865604424 Successfully Updated
+Promotion object_id: 9162173155860524040 INSERTED reference to Tax Included Credits
+Promotion: 9162173155860524040 Successfully Updated
+Promotion object_id: 9162232340719639223 INSERTED reference to Tax Included Credits
+Promotion: 9162232340719639223 Successfully Updated
+Promotion object_id: 9162232370241637123 INSERTED reference to Tax Included Credits
+Promotion: 9162232370241637123 Successfully Updated
+Promotion object_id: 9162232604602637124 INSERTED reference to Tax Included Credits
+Promotion: 9162232604602637124 Successfully Updated
+Promotion object_id: 9162232782137639224 INSERTED reference to Tax Included Credits
+Promotion: 9162232782137639224 Successfully Updated
+Promotion object_id: 9162232816891637125 INSERTED reference to Tax Included Credits
+Promotion: 9162232816891637125 Successfully Updated
+Promotion object_id: 9164421569528732407 INSERTED reference to Tax Included Credits
+Promotion: 9164421569528732407 Successfully Updated
