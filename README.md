@@ -1,2 +1,2 @@
 # shareable
-QA Shareable Reports
+For QA Teams Only
