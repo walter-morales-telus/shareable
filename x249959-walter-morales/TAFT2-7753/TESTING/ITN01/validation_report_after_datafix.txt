@@ -1,0 +1,12 @@
+/**** YES YES YES OPTIK TV Tax Included Offer YES YES YES ****/
+Promotion 9159034270813379370 Has NO Price Alteration Component -> Skiped
+Promotion 9159034273213379375 Has NO Price Alteration Component -> Skiped
+Promotion 9159034275913379380 Has NO Price Alteration Component -> Skiped
+Promotion 9160675422113633759 Has NO Price Alteration Component -> Skiped
+
+/**** NO NO NO OPTIK TV Tax Included Offer NO NO NO ****/
+Promotion: 9159033666113378903 Has NO Price Alteration Component -> Skiped
+Promotion: 9159033882713379042 Has NO Price Alteration Component -> Skiped
+Promotion: 9159034013313379155 Has NO Price Alteration Component -> Skiped
+Promotion: 9160675422213633905 Has NO Price Alteration Component -> Skiped
+Promotion: 9160675273713633376 Has NO Price Alteration Component -> Skiped
