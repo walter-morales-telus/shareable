@@ -1,0 +1,23 @@
+/* Promotion object_id: 9160675422113633759 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED */
+/* Promotion object_id: 9159034270813379370 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED */
+/* Promotion object_id: 9159034273213379375 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED */
+/* Promotion object_id: 9159034275913379380 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED */
+/* Promotion object_id: 9166122663355039095 Does NOT have Price Alteration Component AND is Optik TV -> SKIPED */
+/* Promotion object_id: 9166046418602507086 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9160675422213633905 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9160675273713633376 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9159033666113378903 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9159033882713379042 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9159034013313379155 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166079616961507164 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166190843202039308 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166190790327507461 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166045529087038925 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166114629161039076 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166046450115079606 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166104307832039043 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166177048402507421 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166177068099039250 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166177005146079975 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166177027926079976 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
+/* Promotion object_id: 9166063619556507137 Does NOT have Price Alteration Component AND is NOT Optik TV  -> SKIPED */
