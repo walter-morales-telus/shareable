@@ -1,0 +1,19 @@
+<configuration_item name="Rule Node" id="9166684335513370805" type="atom_nc_object" parent_id="9162733765013437350" version="1.1">
+    <nc_object name="Rule Node" id="9166684335513370805" _type="Rule Node" _parent_name="Hide MTM easy payment for WHSIA equipment" parent_id="9162733765013437350" order_number="2">
+        <object_type _type_name="Rule Node" id="9133263881613134727"/>
+        <object_class _type_name="Product Catalog" id="2050878077013769311"/>
+        <project _obj_name="Offering Catalog" id="9128632109113273015"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-12 22:12:35.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-12 22:12:35.0" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>

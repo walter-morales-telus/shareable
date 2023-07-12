@@ -1,0 +1,38 @@
+<configuration_item name="Qualification Rule Hide RNW commitment if wHSIA is new" id="9166707800013383097" type="atom_nc_object" parent_id="9128632109113273016" version="1.1">
+    <nc_object name="Qualification Rule Hide RNW commitment if wHSIA is new" id="9166707800013383097" _type="Qualification Rule" _parent_name="Top Product" parent_id="9128632109113273016" order_number="66595">
+        <object_type _type_name="Qualification Rule" id="9152993516813937324"/>
+        <object_class _type_name="Rule" id="7021849090013445318"/>
+        <project _obj_name="Offering Catalog" id="9128632109113273015"/>
+        <description>Qualification Rule Hide RNW commitment if wHSIA is new</description>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-15 15:00:19.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-15 15:05:25.0" show_order="1"/>
+        </param>
+        <param _attr_name="Message" attr_id="7030253282013155496" attr_access_type="0" priority="1">
+            <value value="No message" show_order="1"/>
+        </param>
+        <param _attr_name="Is Active" attr_id="7030253282013155504" attr_access_type="0" priority="1">
+            <list_value _list_value="Yes" list_value_id="5032957201013871249" show_order="1"/>
+        </param>
+        <param _attr_name="Rule Action" attr_id="7031957243013173646" attr_access_type="0" priority="0">
+            <list_value _list_value="Hide" list_value_id="9149650085013764637" show_order="1"/>
+        </param>
+        <param _attr_name="Notification Type" attr_id="7052049202013515928" attr_access_type="0" priority="1">
+            <list_value _list_value="Info" list_value_id="7052338500013698683" show_order="1"/>
+        </param>
+        <param _attr_name="Execute On" attr_id="9142089405413057582" attr_access_type="0" priority="1">
+            <list_value _list_value="FE" list_value_id="9142089405413057588" show_order="1"/>
+        </param>
+        <param _attr_name="Execution scope" attr_id="9143696634113152265" attr_access_type="0" priority="1">
+            <value value="Visibility" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>

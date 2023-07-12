@@ -1,0 +1,62 @@
+<configuration_item name="Smart Hub Rural Internet - 50Mbps (500GB) to TELUS Wi-Fi Hub - Easy Payment Replacement" id="9166622323513324448" type="atom_nc_object" parent_id="9128632109113273016" version="1.1">
+    <nc_object name="Smart Hub Rural Internet - 50Mbps (500GB) to TELUS Wi-Fi Hub - Easy Payment Replacement" id="9166622323513324448" _type="Product Offering Relationship" _parent_name="Top Product" parent_id="9128632109113273016" order_number="0">
+        <object_type _type_name="Product Offering Relationship" id="9125737315713245977"/>
+        <object_class _type_name="Offering Relationship" id="9135377944913415559"/>
+        <project _obj_name="Offering Catalog" id="9128632109113273015"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-05 17:51:56.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-05 18:29:19.0" show_order="1"/>
+        </param>
+        <param _attr_name="Parent Min" attr_id="9125718672413237361" attr_access_type="0" priority="0">
+            <value value="0" show_order="1"/>
+        </param>
+        <param _attr_name="Parent Max" attr_id="9125718672413237363" attr_access_type="0" priority="0">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Child Min" attr_id="9125718672413237366" attr_access_type="0" priority="1">
+            <value value="0" show_order="1"/>
+        </param>
+        <param _attr_name="Child Max" attr_id="9125718672413237367" attr_access_type="0" priority="1">
+            <value value="1" show_order="1"/>
+        </param>
+        <param _attr_name="Hide Component" attr_id="9133022406913941503" attr_access_type="0" priority="0">
+            <list_value _list_value="No" list_value_id="9133022406913941506" show_order="1"/>
+        </param>
+        <param _attr_name="Propagate override to all child offerings" attr_id="9135405112713420745" attr_access_type="0" priority="1">
+            <list_value _list_value="Do not override" list_value_id="120979641937" show_order="1"/>
+        </param>
+        <param _attr_name="Override Type" attr_id="9135405112713420832" attr_access_type="0" priority="1">
+            <list_value _list_value="Do not override" list_value_id="9135405260513420874" show_order="1"/>
+        </param>
+        <param _attr_name="Default Behavior" attr_id="9137167273413492014" attr_access_type="0" priority="1">
+            <list_value _list_value="Not selected" list_value_id="9137167273413492017" show_order="1"/>
+        </param>
+        <param _attr_name="Child Default" attr_id="9144119175313978707" attr_access_type="0" priority="0">
+            <value value="0" show_order="1"/>
+        </param>
+        <param _attr_name="Child Behavior" attr_id="9146116860313111586" attr_access_type="0" priority="1">
+            <list_value _list_value="Retain" list_value_id="9146116860313111589" show_order="1"/>
+        </param>
+        <param _attr_name="Propagate modify to parent" attr_id="9148274260713102574" attr_access_type="0" priority="1">
+            <list_value _list_value="No" list_value_id="9148274399813112701" show_order="1"/>
+        </param>
+        <param _attr_name="Action To Modify Parent" attr_id="9148509781313800679" attr_access_type="0" priority="1">
+            <list_value _list_value="Add" list_value_id="9148509781313800690" show_order="1"/>
+            <list_value _list_value="Delete" list_value_id="9148509781313800691" show_order="2"/>
+        </param>
+        <param _attr_name="Parent" attr_id="9125718672413237377" attr_access_type="0" priority="1">
+            <reference _obj_name="Smart Hub Rural Internet - 50Mbps (500GB)" reference="9161414124118156706" show_order="1"/>
+        </param>
+        <param _attr_name="Child" attr_id="9125718672413237378" attr_access_type="0" priority="1">
+            <reference _obj_name="TELUS Wi-Fi Hub - Easy Payment Replacement" reference="9166566063516411270" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>

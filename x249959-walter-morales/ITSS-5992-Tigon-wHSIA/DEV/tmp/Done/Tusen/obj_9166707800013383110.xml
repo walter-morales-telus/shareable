@@ -1,0 +1,22 @@
+<configuration_item name="Offerings from Category to Hide" id="9166707800013383110" type="atom_nc_object" parent_id="9166707800013383097" version="1.1">
+    <nc_object name="Offerings from Category to Hide" id="9166707800013383110" _type="Reference Rule Parameter" _parent_name="Qualification Rule Hide RNW commitment if wHSIA is new" parent_id="9166707800013383097" order_number="1">
+        <object_type _type_name="Reference Rule Parameter" id="9146755276313217645"/>
+        <object_class _type_name="Product Catalog" id="2050878077013769311"/>
+        <project _obj_name="Offering Catalog" id="9128632109113273015"/>
+        <param _attr_name="Created By" attr_id="61" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Created When" attr_id="62" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-15 15:04:06.0" show_order="1"/>
+        </param>
+        <param _attr_name="Modified By" attr_id="63" attr_access_type="0" priority="1">
+            <value value="sysadm" show_order="1"/>
+        </param>
+        <param _attr_name="Modified When" attr_id="64" attr_access_type="0" priority="1">
+            <date_value date_value="2023-05-17 00:31:15.0" show_order="1"/>
+        </param>
+        <param _attr_name="Value" attr_id="9146755329513217743" attr_access_type="0" priority="1">
+            <reference _obj_name="WHSIA RNW Commitments" reference="9166686595671683027" show_order="1"/>
+        </param>
+    </nc_object>
+</configuration_item>
