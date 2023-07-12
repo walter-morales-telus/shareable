@@ -1,4 +1,3 @@
-
 Offerings:
 Is Active = NO
 5G Indoor Router - Easy Payment Replacement  ---> 9166546284978458697
